@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Shadow-ml Classifier</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <main>
+    <h1>Shadow-ml Classifier</h1>
+    <p>Paste a prompt to check whether it contains sensitive data.</p>
+    <textarea id="text" rows="6" placeholder="Type or paste text here..."></textarea>
+    <button id="go">Classify</button>
+    <pre id="result"></pre>
+  </main>
+  <script>
+    document.getElementById("go").addEventListener("click", async () => {
+      const out = document.getElementById("result");
+      out.textContent = "Checking...";
+      try {
+        const res = await fetch("/api/classify", {
+          method: "POST",
+          headers: {"Content-Type": "application/json"},
+          body: JSON.stringify({text: document.getElementById("text").value})
+        });
+        const data = await res.json();
+        out.textContent = res.ok ? JSON.stringify(data, null, 2) : "Error: " + data.detail;
+      } catch (err) {
+        out.textContent = "Request failed: " + err;
+      }
+    });
+  </script>
+</body>
+</html>
