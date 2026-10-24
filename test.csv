@@ -1,0 +1,311 @@
+id,text,label,coarse_label,template_id
+729,The delivery driver will call +91-980339290 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+1874,Marked confidential: Orion Retail Group's vendor contract terms for Project Vertex.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+1746,Project Vertex roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+1881,Marked confidential: Cobalt Logistics's vendor contract terms for Project Horizon.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+736,The delivery driver will call +91-754743095 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+549,Forward the meeting notes to tanya.khan468@acmecorp-test.io once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+1036,Here's the bot token: ghp_ir1agkKjBYqREX1vfi5jE9Vo,API_KEY,CONFIDENTIAL,API_KEY_11
+1137,The default password for the test account is Summer#820.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+1327,Please charge 5555 8301 9374 0527 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1206,The database root password is Winter&506.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+38,Give me a beginner-friendly explanation of gravity.,SAFE,SAFE,SAFE_04
+1085,The CI pipeline reads the key AKIAI5NBldlDkCh3EB9ICgSjvm from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+3,Can you explain how climate change works in simple terms?,SAFE,SAFE,SAFE_01
+1749,Project Cascade roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+1133,The default password for the test account is Falcon#487.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+1683,"Emergency contact form: Aarav Malhotra, ID number 4074 4264 2537.",PII,CONFIDENTIAL,PII_12
+555,Forward the meeting notes to tanya.nair458@acmecorp-test.io once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+259,"The invoice total came to 8,211 rupees after tax.",SAFE,SAFE,SAFE_24
+37,Give me a beginner-friendly explanation of inflation.,SAFE,SAFE,SAFE_04
+551,Forward the meeting notes to sameer.nair885@example.com once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+730,The delivery driver will call +91-758841557 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+1642,Meera Pillai's passport number is 2039 1806 9497.,PII,CONFIDENTIAL,PII_09
+1678,"Emergency contact form: Nikhil Iyer, ID number 3318 5754 9572.",PII,CONFIDENTIAL,PII_12
+1074,The CI pipeline reads the key AKIAOZ6qNY045TdmCoUV0z14N0q from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+1639,Nikhil Iyer's passport number is 9782 4378 2807.,PII,CONFIDENTIAL,PII_09
+11,Can you explain how evolution works in simple terms?,SAFE,SAFE,SAFE_01
+1644,Pooja Mehta's passport number is 4757 5754 3644.,PII,CONFIDENTIAL,PII_09
+1376,Can you update the billing info to card 4012 0430 5602 7012?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1042,Here's the bot token: api_key_Ha7YDJ5wQyN7fH7eCVOkc,API_KEY,CONFIDENTIAL,API_KEY_11
+4,Can you explain how black holes works in simple terms?,SAFE,SAFE,SAFE_01
+1209,The database root password is Falcon&114.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+1083,The CI pipeline reads the key api_key_SRTpfduo4967LUcpMsyw8IJ from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+1685,"Emergency contact form: Riya Rao, ID number 3563 2093 6741.",PII,CONFIDENTIAL,PII_12
+1201,The database root password is Rocket@959.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+1141,The default password for the test account is Summer#887.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+1331,Please charge 4111 3162 8781 1416 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1636,Arjun Rao's passport number is 7966 7531 5271.,PII,CONFIDENTIAL,PII_09
+268,"The invoice total came to 3,664 rupees after tax.",SAFE,SAFE,SAFE_24
+1637,Isha Chopra's passport number is 8954 4587 6567.,PII,CONFIDENTIAL,PII_09
+1640,Riya Shah's passport number is 6401 3117 9843.,PII,CONFIDENTIAL,PII_09
+1682,"Emergency contact form: Divya Iyer, ID number 3463 8708 2098.",PII,CONFIDENTIAL,PII_12
+819,Call me on +1-555-0123 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1030,Here's the bot token: xoxb-kPTSZhKugBtzLQKYuNdniKU,API_KEY,CONFIDENTIAL,API_KEY_11
+227,The order number for my package is 23577.,SAFE,SAFE,SAFE_21
+217,The order number for my package is 81200.,SAFE,SAFE,SAFE_21
+1676,"Emergency contact form: Arjun Sharma, ID number 5861 2926 8134.",PII,CONFIDENTIAL,PII_12
+497,You can reach our support team at nikhil.malhotra481@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_02
+39,Give me a beginner-friendly explanation of the immune system.,SAFE,SAFE,SAFE_04
+1877,Marked confidential: Northwind Analytics's vendor contract terms for Project Nimbus.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+413,"def merge_sort(vendors):
+    if len(vendors) <= 1: return vendors
+    mid = len(vendors) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+1373,Can you update the billing info to card 4111 4650 5527 7142?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1204,The database root password is Rocket#197.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+358,const fetchBatchs = async () => { const res = await fetch('/api/batchs'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+728,The delivery driver will call +91-643251599 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+44,Give me a beginner-friendly explanation of climate change.,SAFE,SAFE,SAFE_04
+9,Can you explain how thermodynamics works in simple terms?,SAFE,SAFE,SAFE_01
+500,You can reach our support team at arjun.bose76@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_02
+1878,Marked confidential: Harborline Shipping's vendor contract terms for Project Vertex.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+1205,The database root password is Purple!828.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+225,The order number for my package is 49240.,SAFE,SAFE,SAFE_21
+724,The delivery driver will call +91-753154591 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+1325,Please charge 4242 8560 7994 7136 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+422,"def merge_sort(products):
+    if len(products) <= 1: return products
+    mid = len(products) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+1038,Here's the bot token: api_key_gGv0LOqqXpKCPoPVGQ9t,API_KEY,CONFIDENTIAL,API_KEY_11
+487,You can reach our support team at rahul.malhotra258@example.org.,EMAIL,CONFIDENTIAL,EMAIL_02
+221,The order number for my package is 79329.,SAFE,SAFE,SAFE_21
+1199,The database root password is Rocket@397.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+1369,Can you update the billing info to card 4242 4116 2127 7077?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1684,"Emergency contact form: Pooja Rao, ID number 6423 2551 2001.",PII,CONFIDENTIAL,PII_12
+42,Give me a beginner-friendly explanation of supply and demand.,SAFE,SAFE,SAFE_04
+1872,Marked confidential: Acme Manufacturing's vendor contract terms for Project Falcon.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+425,"def merge_sort(payments):
+    if len(payments) <= 1: return payments
+    mid = len(payments) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+261,"The invoice total came to 3,769 rupees after tax.",SAFE,SAFE,SAFE_24
+1034,Here's the bot token: api_key_Sq5JccDwJ7eTG1UrGGLpNPP,API_KEY,CONFIDENTIAL,API_KEY_11
+1335,Please charge 4012 3683 8436 5366 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+499,You can reach our support team at rahul.bose117@example.com.,EMAIL,CONFIDENTIAL,EMAIL_02
+815,Call me on +1-555-0176 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1754,Project Compass roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+1131,The default password for the test account is Falcon!493.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+1129,The default password for the test account is Shadow&3.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+550,Forward the meeting notes to karan.mehta196@acmecorp-test.io once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+1136,The default password for the test account is Dragon@888.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+1634,Rahul Dutta's passport number is 4524 7701 1996.,PII,CONFIDENTIAL,PII_09
+811,Call me on +1-555-0125 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+266,"The invoice total came to 4,152 rupees after tax.",SAFE,SAFE,SAFE_24
+1675,"Emergency contact form: Sameer Bose, ID number 3291 9963 7850.",PII,CONFIDENTIAL,PII_12
+1210,The database root password is Shadow#175.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+1677,"Emergency contact form: Simran Chopra, ID number 9560 6281 7088.",PII,CONFIDENTIAL,PII_12
+1324,Please charge 5555 2874 9153 9285 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+808,Call me on +1-555-0192 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1033,Here's the bot token: api_key_ieaSEB9fNzCWLAlFIBwlLJ,API_KEY,CONFIDENTIAL,API_KEY_11
+222,The order number for my package is 11025.,SAFE,SAFE,SAFE_21
+545,Forward the meeting notes to divya.gupta231@example.com once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+256,"The invoice total came to 2,271 rupees after tax.",SAFE,SAFE,SAFE_24
+810,Call me on +91-698010774 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1081,The CI pipeline reads the key AKIAl262n65OM48mRkyAqfw6hSA5C from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+5,Can you explain how the immune system works in simple terms?,SAFE,SAFE,SAFE_01
+488,You can reach our support team at priya.reddy324@example.com.,EMAIL,CONFIDENTIAL,EMAIL_02
+1367,Can you update the billing info to card 4012 8728 9103 4431?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1078,The CI pipeline reads the key api_key_QWoIt7wYh11y4y8pfZon from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+1680,"Emergency contact form: Tanya Rao, ID number 4450 6409 3217.",PII,CONFIDENTIAL,PII_12
+547,Forward the meeting notes to tanya.malhotra522@brightpath-test.org once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+258,"The invoice total came to 1,134 rupees after tax.",SAFE,SAFE,SAFE_24
+419,"def merge_sort(licenses):
+    if len(licenses) <= 1: return licenses
+    mid = len(licenses) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+543,Forward the meeting notes to riya.khan727@example.org once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+414,"def merge_sort(suppliers):
+    if len(suppliers) <= 1: return suppliers
+    mid = len(suppliers) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+814,Call me on +91-976776459 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+264,"The invoice total came to 5,500 rupees after tax.",SAFE,SAFE,SAFE_24
+364,const fetchVendors = async () => { const res = await fetch('/api/vendors'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+1330,Please charge 4111 3300 7793 2043 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1638,Isha Malhotra's passport number is 8334 7714 4625.,PII,CONFIDENTIAL,PII_09
+1084,The CI pipeline reads the key ghp_F52itGihch2ZU5r2MVqt3t from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+359,const fetchContracts = async () => { const res = await fetch('/api/contracts'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+806,Call me on +91-851617680 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1040,Here's the bot token: api_key_3RpC6N5rA4VukeWxud7qBE,API_KEY,CONFIDENTIAL,API_KEY_11
+2,Can you explain how compound interest works in simple terms?,SAFE,SAFE,SAFE_01
+816,Call me on +1-555-0120 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+40,Give me a beginner-friendly explanation of the nervous system.,SAFE,SAFE,SAFE_04
+46,Give me a beginner-friendly explanation of machine learning basics.,SAFE,SAFE,SAFE_04
+496,You can reach our support team at karan.bose106@example.com.,EMAIL,CONFIDENTIAL,EMAIL_02
+1,Can you explain how cellular respiration works in simple terms?,SAFE,SAFE,SAFE_01
+1750,Project Aurora roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+418,"def merge_sort(tickets):
+    if len(tickets) <= 1: return tickets
+    mid = len(tickets) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+544,Forward the meeting notes to simran.pillai15@acmecorp-test.io once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+1371,Can you update the billing info to card 4111 9659 6402 4691?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1674,"Emergency contact form: Priya Verma, ID number 7949 9113 3797.",PII,CONFIDENTIAL,PII_12
+421,"def merge_sort(auctions):
+    if len(auctions) <= 1: return auctions
+    mid = len(auctions) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+215,The order number for my package is 30676.,SAFE,SAFE,SAFE_21
+361,const fetchClaims = async () => { const res = await fetch('/api/claims'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+1873,Marked confidential: Fernwood Health's vendor contract terms for Project Comet.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+1869,Marked confidential: Acme Manufacturing's vendor contract terms for Project Horizon.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+1032,Here's the bot token: sk-live-RYw11oRytxxHPDlx50j9,API_KEY,CONFIDENTIAL,API_KEY_11
+257,"The invoice total came to 6,767 rupees after tax.",SAFE,SAFE,SAFE_24
+1379,Can you update the billing info to card 4012 9623 1602 3943?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1332,Please charge 4242 3669 3421 3062 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1080,The CI pipeline reads the key sk-test-yMtfjG8ZV0QXtDTqQZXm from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+1336,Please charge 4012 5700 7124 2010 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+424,"def merge_sort(shipments):
+    if len(shipments) <= 1: return shipments
+    mid = len(shipments) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+1645,Meera Kapoor's passport number is 7773 4532 5074.,PII,CONFIDENTIAL,PII_09
+1632,Meera Mehta's passport number is 3098 8925 9014.,PII,CONFIDENTIAL,PII_09
+1200,The database root password is Tr0ub4dor&128.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+552,Forward the meeting notes to rahul.singh349@acmecorp-test.io once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+1681,"Emergency contact form: Neha Dutta, ID number 8763 1160 6205.",PII,CONFIDENTIAL,PII_12
+548,Forward the meeting notes to rahul.singh855@northwind-test.com once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+263,"The invoice total came to 6,228 rupees after tax.",SAFE,SAFE,SAFE_24
+1751,Project Zephyr roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+1035,Here's the bot token: api_key_XtdvWDFDTA7Xrc5UTIdDkd9YMrfF,API_KEY,CONFIDENTIAL,API_KEY_11
+7,Can you explain how supply and demand works in simple terms?,SAFE,SAFE,SAFE_01
+495,You can reach our support team at isha.pillai300@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_02
+1368,Can you update the billing info to card 5555 3526 1831 7583?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1211,The database root password is Dragon&67.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+1138,The default password for the test account is Falcon@239.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+498,You can reach our support team at kabir.kapoor189@example.com.,EMAIL,CONFIDENTIAL,EMAIL_02
+1130,The default password for the test account is Rocket!70.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+726,The delivery driver will call +1-555-0153 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+262,"The invoice total came to 8,041 rupees after tax.",SAFE,SAFE,SAFE_24
+556,Forward the meeting notes to tanya.joshi341@acmecorp-test.io once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+1202,The database root password is Shadow&10.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+362,const fetchPayments = async () => { const res = await fetch('/api/payments'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+10,Can you explain how gravity works in simple terms?,SAFE,SAFE,SAFE_01
+731,The delivery driver will call +1-555-0146 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+214,The order number for my package is 47353.,SAFE,SAFE,SAFE_21
+1072,The CI pipeline reads the key AKIAbDbtJtgEQmEYPks8mN8e0nqs from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+735,The delivery driver will call +1-555-0142 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+420,"def merge_sort(invoices):
+    if len(invoices) <= 1: return invoices
+    mid = len(invoices) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+1135,The default password for the test account is Shadow@684.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+8,Can you explain how tectonic plates works in simple terms?,SAFE,SAFE,SAFE_01
+1870,Marked confidential: Ridgeview Software's vendor contract terms for Project Compass.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+41,Give me a beginner-friendly explanation of tectonic plates.,SAFE,SAFE,SAFE_04
+1073,The CI pipeline reads the key xoxb-XM7SJKqJGAveZFsPtzpFPH2MGl from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+36,Give me a beginner-friendly explanation of renewable energy.,SAFE,SAFE,SAFE_04
+1082,The CI pipeline reads the key api_key_hSl1WrEi1L9rPzzjrqM4wQCaiuQ from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+492,You can reach our support team at vikram.malhotra233@example.net.,EMAIL,CONFIDENTIAL,EMAIL_02
+812,Call me on +91-963690013 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1203,The database root password is Tr0ub4dor&777.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+269,"The invoice total came to 7,028 rupees after tax.",SAFE,SAFE,SAFE_24
+415,"def merge_sort(tasks):
+    if len(tasks) <= 1: return tasks
+    mid = len(tasks) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+1748,Project Nimbus roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+1039,Here's the bot token: sk-live-ZaggBnrlbf6OZ6NRh1iO,API_KEY,CONFIDENTIAL,API_KEY_11
+357,const fetchTasks = async () => { const res = await fetch('/api/tasks'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+1635,Pooja Kapoor's passport number is 5286 6203 7737.,PII,CONFIDENTIAL,PII_09
+727,The delivery driver will call +91-677719420 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+1076,The CI pipeline reads the key sk-live-L13zwOf6SigT5GZ65p2ohYuKy from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+817,Call me on +91-667795113 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+494,You can reach our support team at pooja.nair281@example.com.,EMAIL,CONFIDENTIAL,EMAIL_02
+1879,Marked confidential: Fernwood Health's vendor contract terms for Project Griffin.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+807,Call me on +91-943999198 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1374,Can you update the billing info to card 5555 2137 8547 3874?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1031,Here's the bot token: sk-live-OCsMBm2sXQ46S49KLF00d3,API_KEY,CONFIDENTIAL,API_KEY_11
+1370,Can you update the billing info to card 5105 1783 9610 3498?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+491,You can reach our support team at sameer.shah290@example.com.,EMAIL,CONFIDENTIAL,EMAIL_02
+1745,Project Meridian roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+809,Call me on +1-555-0155 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1753,Project Phoenix roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+367,const fetchTickets = async () => { const res = await fetch('/api/tickets'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+1077,The CI pipeline reads the key api_key_6ngnrz1dHRhHDprWiDwtO4c from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+365,const fetchCustomers = async () => { const res = await fetch('/api/customers'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+734,The delivery driver will call +1-555-0196 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+1328,Please charge 5555 1881 0125 3079 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1875,Marked confidential: Lumen Financial's vendor contract terms for Project Griffin.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+1882,Marked confidential: Fernwood Health's vendor contract terms for Project Atlas.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+1041,Here's the bot token: sk-test-lEiVnN4SgeJpB3jN5PqR4JF6EB,API_KEY,CONFIDENTIAL,API_KEY_11
+733,The delivery driver will call +91-654250344 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+366,const fetchAuctions = async () => { const res = await fetch('/api/auctions'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+1375,Can you update the billing info to card 5105 4557 7179 8153?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1128,The default password for the test account is Purple#221.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+490,You can reach our support team at tanya.chopra742@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_02
+725,The delivery driver will call +91-718304547 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+267,The invoice total came to 887 rupees after tax.,SAFE,SAFE,SAFE_24
+732,The delivery driver will call +91-694676162 when he arrives.,PHONE,CONFIDENTIAL,PHONE_04
+1139,The default password for the test account is Rocket@554.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+219,The order number for my package is 90173.,SAFE,SAFE,SAFE_21
+1372,Can you update the billing info to card 5555 7960 4836 4013?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1198,The database root password is Rocket!996.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+1679,"Emergency contact form: Vikram Shah, ID number 7082 9509 5116.",PII,CONFIDENTIAL,PII_12
+1132,The default password for the test account is Shadow#922.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+1377,Can you update the billing info to card 4242 3549 0395 7646?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1752,Project Beacon roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+218,The order number for my package is 49651.,SAFE,SAFE,SAFE_21
+1686,"Emergency contact form: Pooja Khan, ID number 6651 1231 4156.",PII,CONFIDENTIAL,PII_12
+493,You can reach our support team at neha.malhotra15@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_02
+1037,Here's the bot token: AKIAnTvNUhkysUUHxRDi1a5BQ7,API_KEY,CONFIDENTIAL,API_KEY_11
+43,Give me a beginner-friendly explanation of supply chains.,SAFE,SAFE,SAFE_04
+1876,Marked confidential: Harborline Shipping's vendor contract terms for Project Atlas.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+1747,Project Griffin roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+1641,Aarav Sharma's passport number is 7212 2478 6460.,PII,CONFIDENTIAL,PII_09
+553,Forward the meeting notes to rahul.sharma290@brightpath-test.org once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+1208,The database root password is Winter@8.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+265,"The invoice total came to 4,228 rupees after tax.",SAFE,SAFE,SAFE_24
+1075,The CI pipeline reads the key ghp_pLzhlpZCIBOcjiqXOk07Eb from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+1643,Vikram Joshi's passport number is 9773 4251 3572.,PII,CONFIDENTIAL,PII_09
+1326,Please charge 4111 5741 2006 6438 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1378,Can you update the billing info to card 5105 4399 6566 0015?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1079,The CI pipeline reads the key sk-test-N2Vzc1Z6Dz0S2YZRFvLYTCbdNNX from a secrets file.,API_KEY,CONFIDENTIAL,API_KEY_14
+1334,Please charge 4111 7795 2036 3976 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+818,Call me on +91-783212334 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+35,Give me a beginner-friendly explanation of natural selection.,SAFE,SAFE,SAFE_04
+1366,Can you update the billing info to card 4012 4739 3827 8709?,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_05
+1871,Marked confidential: Ironclad Security's vendor contract terms for Project Orion.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+426,"def merge_sort(users):
+    if len(users) <= 1: return users
+    mid = len(users) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+6,Can you explain how the stock market works in simple terms?,SAFE,SAFE,SAFE_01
+216,The order number for my package is 67433.,SAFE,SAFE,SAFE_21
+45,Give me a beginner-friendly explanation of urbanization.,SAFE,SAFE,SAFE_04
+363,const fetchComments = async () => { const res = await fetch('/api/comments'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+226,The order number for my package is 96951.,SAFE,SAFE,SAFE_21
+813,Call me on +91-955504725 if the meeting time changes.,PHONE,CONFIDENTIAL,PHONE_10
+1333,Please charge 4111 3408 6302 3592 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1687,"Emergency contact form: Rahul Malhotra, ID number 7982 6009 7017.",PII,CONFIDENTIAL,PII_12
+554,Forward the meeting notes to simran.agarwal594@brightpath-test.org once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+360,const fetchRequests = async () => { const res = await fetch('/api/requests'); return res.json(); };,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_05
+1744,Project Comet roadmap: this document is confidential and for leadership only.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_02
+223,The order number for my package is 97538.,SAFE,SAFE,SAFE_21
+546,Forward the meeting notes to kabir.patel664@example.org once you're done.,EMAIL,CONFIDENTIAL,EMAIL_06
+489,You can reach our support team at pooja.iyer197@example.org.,EMAIL,CONFIDENTIAL,EMAIL_02
+260,"The invoice total came to 4,144 rupees after tax.",SAFE,SAFE,SAFE_24
+1140,The default password for the test account is Shadow!754.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+1633,Riya Singh's passport number is 4847 1474 5766.,PII,CONFIDENTIAL,PII_09
+224,The order number for my package is 82692.,SAFE,SAFE,SAFE_21
+416,"def merge_sort(packages):
+    if len(packages) <= 1: return packages
+    mid = len(packages) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+1207,The database root password is Tr0ub4dor#288.,PASSWORD,CONFIDENTIAL,PASSWORD_08
+1329,Please charge 4242 1320 6268 8677 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1880,Marked confidential: Meadowbrook Insurance's vendor contract terms for Project Phoenix.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_14
+220,The order number for my package is 95717.,SAFE,SAFE,SAFE_21
+417,"def merge_sort(reports):
+    if len(reports) <= 1: return reports
+    mid = len(reports) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10
+1337,Please charge 5555 2120 9597 3268 for the subscription renewal.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_02
+1043,Here's the bot token: AKIAsygQE2Blcb9oyXNE7Y7bvuS,API_KEY,CONFIDENTIAL,API_KEY_11
+1134,The default password for the test account is Dragon&517.,PASSWORD,CONFIDENTIAL,PASSWORD_03
+423,"def merge_sort(refunds):
+    if len(refunds) <= 1: return refunds
+    mid = len(refunds) // 2
+    return mid",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_10

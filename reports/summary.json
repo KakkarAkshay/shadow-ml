@@ -1,0 +1,20 @@
+[
+  {
+    "model": "naive_bayes",
+    "macro_f1_val": 0.9967,
+    "train_time_sec": 0.627,
+    "ms_per_prediction": 4.782
+  },
+  {
+    "model": "logreg",
+    "macro_f1_val": 1.0,
+    "train_time_sec": 1.01,
+    "ms_per_prediction": 2.769
+  },
+  {
+    "model": "linear_svm",
+    "macro_f1_val": 1.0,
+    "train_time_sec": 1.339,
+    "ms_per_prediction": 8.47
+  }
+]

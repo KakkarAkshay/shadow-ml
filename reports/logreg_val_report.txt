@@ -1,0 +1,17 @@
+logreg  |  macro-F1=1.000  |  train_time=1.01s  |  2.77 ms/prediction
+
+              precision    recall  f1-score   support
+
+     API_KEY      1.000     1.000     1.000        28
+CONFIDENTIAL      1.000     1.000     1.000        17
+       EMAIL      1.000     1.000     1.000        28
+    PASSWORD      1.000     1.000     1.000        28
+PAYMENT_CARD      1.000     1.000     1.000        28
+       PHONE      1.000     1.000     1.000        28
+         PII      1.000     1.000     1.000        28
+        SAFE      1.000     1.000     1.000        42
+ SOURCE_CODE      1.000     1.000     1.000        12
+
+    accuracy                          1.000       239
+   macro avg      1.000     1.000     1.000       239
+weighted avg      1.000     1.000     1.000       239

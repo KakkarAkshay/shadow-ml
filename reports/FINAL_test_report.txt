@@ -1,0 +1,20 @@
+OFFICIAL TEST RESULT (naive_bayes, trained on train+val)
+macro-F1: 0.9095
+train_time_sec: 0.555
+ms_per_prediction: 3.971
+
+              precision    recall  f1-score   support
+
+     API_KEY      1.000     1.000     1.000        28
+CONFIDENTIAL      1.000     1.000     1.000        25
+       EMAIL      0.667     1.000     0.800        28
+    PASSWORD      1.000     1.000     1.000        28
+PAYMENT_CARD      0.667     1.000     0.800        28
+       PHONE      0.964     1.000     0.982        27
+         PII      1.000     0.964     0.982        28
+        SAFE      1.000     0.451     0.622        51
+ SOURCE_CODE      1.000     1.000     1.000        25
+
+    accuracy                          0.892       268
+   macro avg      0.922     0.935     0.909       268
+weighted avg      0.927     0.892     0.882       268

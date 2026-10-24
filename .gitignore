@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Node / React
+node_modules/
+build/
+dist/
+
+# Secrets - NEVER commit these
+.env
+*.pem
+*.key
+id_rsa*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log

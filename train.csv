@@ -1,0 +1,1602 @@
+id,text,label,coarse_label,template_id
+135,What questions should I ask my professor about black holes?,SAFE,SAFE,SAFE_12
+1273,Please change the password from Winter&478 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+853,Add +91-776306502 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+282,I'm nervous about presenting our review roadmap tomorrow.,SAFE,SAFE,SAFE_27
+852,Add +91-636975128 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+673,Use vikram.mehta430@northwind-test.com as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+325,"SELECT inventoryid, COUNT(*) FROM inventorys GROUP BY inventoryid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+1488,Card 5105 3408 4006 2254 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+381,UPDATE suppliers SET status = 'closed' WHERE supplier_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+767,I gave the recruiter my number +91-870306604 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+753,"Our office landline is +1-555-0133, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+109,What's the history behind our understanding of photosynthesis?,SAFE,SAFE,SAFE_10
+30,"I'm studying fermentation for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+273,I'm nervous about presenting our task roadmap tomorrow.,SAFE,SAFE,SAFE_27
+1318,"My card number is 4242 5795 3390 3434, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+1789,Confidential: Cobalt Logistics board meeting notes on the Project Zephyr merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+309,Can you proofread this account update before I send it out?,SAFE,SAFE,SAFE_30
+1233,Set the new password to Winter@982 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1154,Use username 'support' and password Falcon#264 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+1835,The Project Orion security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+144,Summarize gravity in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+78,Can you quiz me on quantum computing?,SAFE,SAFE,SAFE_07
+1002,I found this key in the old config file: xoxb-ejsqwaNxlb1WoSOHyGEIMu,API_KEY,CONFIDENTIAL,API_KEY_09
+429,"try:
+    result = process_transaction(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1484,Card 4242 5446 6920 0203 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+570,"The client's email address is tanya.pillai37@acmecorp-test.io, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1855,"Project Zephyr: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+1430,My corporate card number is 4242 9574 1959 1269.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1573,The applicant Priya Dutta submitted ID 2268 4882 4343 with the form.,PII,CONFIDENTIAL,PII_04
+1517,My backup card is 4111 1263 2992 7082 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+190,Can you review the pull request before the demo on Thursday?,SAFE,SAFE,SAFE_18
+1784,Confidential: Acme Manufacturing board meeting notes on the Project Cascade merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+755,"Our office landline is +1-555-0156, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+574,Sign up for the newsletter using priya.rao171@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_08
+892,Use this key for the staging environment: ghp_IwiLyccSXGj3i5tyM0KFFEIDb,API_KEY,CONFIDENTIAL,API_KEY_01
+630,Please confirm your registration by replying from aditya.nair808@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_12
+1516,My backup card is 5555 5388 8468 5154 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1655,We need Priya Chopra's ID 8723 7169 5771 for the KYC process.,PII,CONFIDENTIAL,PII_10
+1055,This is the temporary key for the demo: xoxb-s8HivBNsd2o6NzvOuKR0,API_KEY,CONFIDENTIAL,API_KEY_12
+1093,Here's my personal access token in case you need it: xoxb-odbJIqO3hMOBBkTDBFKQ50SD2Sy,API_KEY,CONFIDENTIAL,API_KEY_15
+1179,Can you log in with the temporary password Dragon#1 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+112,What's the history behind our understanding of compound interest?,SAFE,SAFE,SAFE_10
+1000,Can you test the endpoint with key api_key_m31nhNukrhWacWDKxfjfM59M?,API_KEY,CONFIDENTIAL,API_KEY_08
+761,"Our office landline is +91-977498993, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+563,"The client's email address is aditya.patel896@northwind-test.com, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+676,Use isha.nair162@acmecorp-test.io as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+1537,Please verify Rohan Gupta's ID number 5099 9907 4372 before processing.,PII,CONFIDENTIAL,PII_02
+1735,Internal memo: Fernwood Health's Q3 pricing strategy for Project Vertex is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1262,The router admin password is Tr0ub4dor#531.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+588,"I lost access to priya.khan391@acmecorp-test.io, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+153,What's a fun fact about genetic inheritance that most people don't know?,SAFE,SAFE,SAFE_14
+228,"Reference ticket number is TCK-27601, raised yesterday.",SAFE,SAFE,SAFE_22
+1653,We need Riya Malhotra's ID 6303 7965 9394 for the KYC process.,PII,CONFIDENTIAL,PII_10
+959,"The webhook secret is ghp_WELWZ8wzjH4QDoafgJE6W, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+856,Add +1-555-0121 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+894,Use this key for the staging environment: sk-live-btjQzW52TdimuPGtk4vvVSN,API_KEY,CONFIDENTIAL,API_KEY_01
+1022,The deployment script needs ACCESS_KEY=xoxb-R8abMh0X9zuINamrWtFuaQv.,API_KEY,CONFIDENTIAL,API_KEY_10
+1302,The vendor portal login uses password Winter@745.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+1813,Acme Manufacturing's salary bands for the Project Compass team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+689,You can reach me at +91-777144075 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+996,Can you test the endpoint with key sk-test-NNIGNtvHXBwqsaY0vDa56DaAsoa?,API_KEY,CONFIDENTIAL,API_KEY_08
+1089,Here's my personal access token in case you need it: sk-live-YMAAcvCnQjENGsB4Djh30Gscec,API_KEY,CONFIDENTIAL,API_KEY_15
+1407,I used card 4012 2909 1845 5044 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1422,My corporate card number is 4111 8971 1479 8140.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1526,"Riya Mehta's date of birth is 22-11-1971, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1070,Replace the placeholder with the real key ghp_EiSEgPOQJD0FyE8Mv8tbcZ before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1812,Acme Manufacturing's salary bands for the Project Beacon team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+523,Can you CC rohan.shah41@northwind-test.com on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1231,Set the new password to Rocket!861 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+327,"SELECT userid, COUNT(*) FROM users GROUP BY userid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+878,Use +1-555-0183 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+1657,We need Tanya Malhotra's ID 9736 9300 5007 for the KYC process.,PII,CONFIDENTIAL,PII_10
+1308,The vendor portal login uses password Shadow@275.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+652,The vendor asked us to send the PO to arjun.singh748@example.com.,EMAIL,CONFIDENTIAL,EMAIL_13
+1771,Project Solstice budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+977,Our third-party integration uses the token ghp_IkL01iHq2eebFbKzK4IH9DWwnVT.,API_KEY,CONFIDENTIAL,API_KEY_07
+565,"The client's email address is aarav.nair420@brightpath-test.org, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1825,Internal use only: competitor analysis for Meadowbrook Insurance's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+1514,My backup card is 4242 2745 7009 0010 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1286,My email password used to be Dragon!864 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+1471,I need to update my card on file to 5105 9865 6648 1043.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+532,"My personal email is priya.iyer338@northwind-test.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1413,Save card 5555 2258 7127 3901 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+694,You can reach me at +1-555-0161 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1059,Replace the placeholder with the real key sk-test-tL64wj0wxrv82fTB9XrX8A3iKfm before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1832,The Project Meridian security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+1217,"I forgot my password, the old one was Tr0ub4dor@875.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1461,Please don't store card 5555 7629 6651 4518 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1730,Internal memo: Acme Manufacturing's Q3 pricing strategy for Project Atlas is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1862,Silverline Media leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+1149,Use username 'support' and password Summer@827 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+188,Can you review the pull request before the demo on Tuesday?,SAFE,SAFE,SAFE_18
+1627,"Patient Tanya Bose, DOB 26-11-1995, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+901,Use this key for the staging environment: ghp_BQSE3BdizIIPtbpaneARHd39Drli,API_KEY,CONFIDENTIAL,API_KEY_01
+189,Can you review the pull request before the demo on Friday?,SAFE,SAFE,SAFE_18
+1804,Please keep Project Aurora launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+904,Here's the API key you asked for: xoxb-JVYo29GzrIKTkQIcvNxGRzslH,API_KEY,CONFIDENTIAL,API_KEY_02
+539,"My personal email is tanya.rao779@example.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1236,Set the new password to Shadow!783 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1670,Aditya Rao (DOB 23-08-2002) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1145,Use username 'support' and password Winter!769 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+637,Please confirm your registration by replying from rohan.bose460@example.net.,EMAIL,CONFIDENTIAL,EMAIL_12
+789,Emergency contact number: +91-786593187.,PHONE,CONFIDENTIAL,PHONE_08
+1345,I entered card 4111 4093 5142 9759 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+1278,Please change the password from Rocket!31 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+229,"Reference ticket number is TCK-44664, raised yesterday.",SAFE,SAFE,SAFE_22
+1230,Set the new password to Falcon@828 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1247,Here's the password for the guest account: Shadow!394,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1464,I need to update my card on file to 4242 9465 1791 0059.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+1242,Here's the password for the guest account: Tr0ub4dor@309,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1064,Replace the placeholder with the real key sk-test-bYn1iohieQWeWUcgXFdhpePU before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+137,What questions should I ask my professor about inflation?,SAFE,SAFE,SAFE_12
+1594,Simran Bose's national ID number is 3205 4005 9345.,PII,CONFIDENTIAL,PII_06
+832,The technician's contact number is +91-858607028.,PHONE,CONFIDENTIAL,PHONE_11
+1121,"I reset my password to Rocket!586, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+1823,Internal use only: competitor analysis for Ridgeview Software's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+1767,Project Falcon budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+1099,Here's my personal access token in case you need it: xoxb-rfIGUjbXKoVT9gdxMvcOhsTC8X9J,API_KEY,CONFIDENTIAL,API_KEY_15
+1309,The vendor portal login uses password Tr0ub4dor@213.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+874,My roommate's number is +91-885647532 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+1144,Use username 'support' and password Winter!979 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+1181,Can you log in with the temporary password Falcon#360 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+29,"I'm studying the solar system for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+253,Flight SG-125 departs from gate B24 at 2 PM.,SAFE,SAFE,SAFE_23
+502,"I updated my contact email to simran.gupta255@example.com, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+1087,Here's my personal access token in case you need it: sk-live-CRDMqOucMC694Xi1XrXUH,API_KEY,CONFIDENTIAL,API_KEY_15
+954,"The webhook secret is xoxb-4PF002lghqYVlQufwUtWuqs0D1K, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+1178,Can you log in with the temporary password Shadow!985 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1348,I entered card 5555 7909 8146 5580 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+988,Can you test the endpoint with key ghp_YJR7IVU7CCKbheN9Pot7GaZpfPYe?,API_KEY,CONFIDENTIAL,API_KEY_08
+163,How would you teach black holes to a ten-year-old?,SAFE,SAFE,SAFE_15
+349,"for i in range(len(customers) - 1):
+    if customers[i] > customers[i + 1]:
+        customers[i], customers[i+1] = customers[i+1], customers[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+370,"def is_valid_shipment(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+1310,"My card number is 4012 8422 4318 2071, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+830,The technician's contact number is +91-914670638.,PHONE,CONFIDENTIAL,PHONE_11
+24,What are the main factors that influence evolution?,SAFE,SAFE,SAFE_02
+1433,My corporate card number is 4242 1292 0509 4003.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+440,"CREATE TABLE bookings (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1431,My corporate card number is 4012 3896 0646 4308.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1104,"My login is admin / Shadow#101, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+593,"I lost access to simran.khan622@example.net, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+281,I'm nervous about presenting our report roadmap tomorrow.,SAFE,SAFE,SAFE_27
+617,Our HR contact email is pooja.singh602@brightpath-test.org for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+1656,We need Divya Gupta's ID 4641 7657 5563 for the KYC process.,PII,CONFIDENTIAL,PII_10
+778,I gave the recruiter my number +91-970210270 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+1700,Karan Singh's tax ID is 8235 9029 5104.,PII,CONFIDENTIAL,PII_13
+616,Our HR contact email is karan.mehta465@example.net for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+1661,Nikhil Patel (DOB 21-05-1991) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1065,Replace the placeholder with the real key sk-live-KmPbjUrJv1WMFeYVGS7kUaS before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1527,"Pooja Bose's date of birth is 02-07-1994, needed for the background check.",PII,CONFIDENTIAL,PII_01
+385,UPDATE refunds SET status = 'closed' WHERE refund_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+155,What's a fun fact about supply and demand that most people don't know?,SAFE,SAFE,SAFE_14
+990,Can you test the endpoint with key xoxb-E94rnJdXDHFyQk8RCQanKuLq?,API_KEY,CONFIDENTIAL,API_KEY_08
+1254,The router admin password is Purple&364.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+571,Sign up for the newsletter using rohan.khan647@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_08
+1009,I found this key in the old config file: xoxb-peWu5fPAvtKbs9M9BjcYmxU0gd65,API_KEY,CONFIDENTIAL,API_KEY_09
+779,Emergency contact number: +91-612550658.,PHONE,CONFIDENTIAL,PHONE_08
+958,"The webhook secret is AKIAVMKcgZchBhpRmQaAgGMRz3FM, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+129,Can you compare GDP growth to something from everyday life?,SAFE,SAFE,SAFE_11
+932,"I accidentally committed the key ghp_5l7cXSOnp4tZJhPdnFcy21VtfC to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+1274,Please change the password from Winter&493 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+1701,Priya Pillai's tax ID is 8133 6704 3916.,PII,CONFIDENTIAL,PII_13
+1338,I entered card 4111 5962 0832 5964 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+670,Use neha.nair580@brightpath-test.org as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+1523,"Priya Verma's date of birth is 16-09-1984, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1143,Use username 'support' and password Summer#660 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+850,Add +91-850259503 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+1057,This is the temporary key for the demo: sk-live-8jB8Hhb5V65j8HFOs38U9PXT5,API_KEY,CONFIDENTIAL,API_KEY_12
+28,"I'm studying supply chains for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+1253,Here's the password for the guest account: Winter!927,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1491,Card 4012 6142 7937 1963 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+1021,The deployment script needs ACCESS_KEY=ghp_iRrGGRLgTM9DQ59rLtG9viIGNEl.,API_KEY,CONFIDENTIAL,API_KEY_10
+715,"My new number is +1-555-0166, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+165,How would you teach supply shocks to a ten-year-old?,SAFE,SAFE,SAFE_15
+149,Summarize quantum computing in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+749,"For appointment confirmations, text +91-678140959.",PHONE,CONFIDENTIAL,PHONE_05
+1841,The Project Griffin security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+884,Use +1-555-0117 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+1770,Project Aurora budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+1510,My backup card is 5555 3465 9751 3931 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1650,We need Karan Chopra's ID 2391 2253 2210 for the KYC process.,PII,CONFIDENTIAL,PII_10
+669,Use simran.kapoor360@example.com as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+615,Our HR contact email is priya.patel241@acmecorp-test.io for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+111,What's the history behind our understanding of quantum computing?,SAFE,SAFE,SAFE_10
+719,"My new number is +1-555-0117, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1402,I used card 4012 0072 4911 9333 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+597,"I lost access to isha.agarwal374@brightpath-test.org, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+210,"We had a great turnout at the employee demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+81,Can you quiz me on cellular respiration?,SAFE,SAFE,SAFE_07
+391,"public class TaskQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+186,Quarterly all-hands got moved to 2 PM on Friday.,SAFE,SAFE,SAFE_17
+985,Our third-party integration uses the token api_key_UBRknyuIRRj7afj5Adnec.,API_KEY,CONFIDENTIAL,API_KEY_07
+330,"SELECT appointmentid, COUNT(*) FROM appointments GROUP BY appointmentid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+1777,This is an internal-only summary of Lumen Financial's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+173,Our team retro is scheduled for Friday afternoon.,SAFE,SAFE,SAFE_16
+1838,The Project Cascade security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+560,"The client's email address is tanya.mehta396@brightpath-test.org, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1821,Orion Retail Group's salary bands for the Project Phoenix team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+935,"I accidentally committed the key sk-test-6iVggBthwVCC0fYsRLn1j to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+1249,Here's the password for the guest account: Rocket!667,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1351,I entered card 4012 7119 4810 1720 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+21,What are the main factors that influence thermodynamics?,SAFE,SAFE,SAFE_02
+161,What's a fun fact about artificial intelligence that most people don't know?,SAFE,SAFE,SAFE_14
+1227,Set the new password to Winter!202 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+461,"while queue:
+    session = queue.popleft()
+    visited.add(session)
+    queue.extend(n for n in graph[session] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+1003,I found this key in the old config file: api_key_gGeZi2mEgJZOGRpwLe5mE3eXd,API_KEY,CONFIDENTIAL,API_KEY_09
+136,What questions should I ask my professor about the immune system?,SAFE,SAFE,SAFE_12
+131,Can you compare natural selection to something from everyday life?,SAFE,SAFE,SAFE_11
+1509,My backup card is 4111 1165 4817 6900 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1566,The applicant Kabir Iyer submitted ID 5227 5524 5252 with the form.,PII,CONFIDENTIAL,PII_04
+121,Can you compare the stock market to something from everyday life?,SAFE,SAFE,SAFE_11
+1050,This is the temporary key for the demo: sk-test-LWNLk81f1E9KZrTTpuJ3KjJa,API_KEY,CONFIDENTIAL,API_KEY_12
+303,Can you proofread this transaction update before I send it out?,SAFE,SAFE,SAFE_30
+645,The vendor asked us to send the PO to karan.chopra640@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_13
+211,"We had a great turnout at the refund demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+1350,I entered card 5555 6014 0744 2410 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+559,"The client's email address is ananya.singh45@example.net, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+984,Our third-party integration uses the token api_key_QtwjOp1AwrQUzWDwIptvRT1.,API_KEY,CONFIDENTIAL,API_KEY_07
+1738,Internal memo: Acme Manufacturing's Q3 pricing strategy for Project Meridian is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+650,The vendor asked us to send the PO to pooja.reddy441@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_13
+1504,Use card 5105 8521 0539 2416 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+889,Use +91-863514837 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+333,"class ContractManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+503,"I updated my contact email to pooja.singh621@acmecorp-test.io, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+561,"The client's email address is karan.bose988@example.com, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1721,Please cross-check Divya Iyer's ID 1052 6098 5485 against the database.,PII,CONFIDENTIAL,PII_15
+290,Here's the plan for tomorrow's supplier sync.,SAFE,SAFE,SAFE_28
+1480,Card 4012 8753 9768 1191 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+953,"The webhook secret is ghp_1qS3sjV3XXLOQSO9qzycRJlTn, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+995,Can you test the endpoint with key sk-live-qjO2tprMiZbP1uD8HqB8R?,API_KEY,CONFIDENTIAL,API_KEY_08
+1401,I used card 4012 2404 0139 7286 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1669,Tanya Pillai (DOB 16-06-1985) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1270,Please change the password from Dragon#108 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+1277,Please change the password from Rocket!11 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+1028,The deployment script needs ACCESS_KEY=xoxb-8UCiY5DCQSCon1M4yRPW2.,API_KEY,CONFIDENTIAL,API_KEY_10
+255,Flight 6E-373 departs from gate B26 at right after lunch.,SAFE,SAFE,SAFE_23
+1239,Set the new password to Tr0ub4dor!387 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1294,My email password used to be Dragon&814 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+915,Here's the API key you asked for: api_key_8WurWw5m9lVbT6mXZe0XPispjAx,API_KEY,CONFIDENTIAL,API_KEY_02
+288,Here's the plan for tomorrow's shift sync.,SAFE,SAFE,SAFE_28
+641,The vendor asked us to send the PO to aarav.verma491@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_13
+1827,Internal use only: competitor analysis for Brightpath Systems's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+1018,The deployment script needs ACCESS_KEY=api_key_ShhBwGxXF6xxV4JOj1lSAt.,API_KEY,CONFIDENTIAL,API_KEY_10
+1023,The deployment script needs ACCESS_KEY=api_key_ZmZ5DDcijC13CY5dGJQI.,API_KEY,CONFIDENTIAL,API_KEY_10
+1246,Here's the password for the guest account: Winter@886,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1470,I need to update my card on file to 4242 6725 3202 2254.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+15,What are the main factors that influence genetic inheritance?,SAFE,SAFE,SAFE_02
+152,Summarize vaccination in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+1623,"Patient Pooja Shah, DOB 07-12-1981, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+1617,"Please update Sameer Kapoor's record: DOB 07-09-1972, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+232,"Reference ticket number is TCK-82512, raised yesterday.",SAFE,SAFE,SAFE_22
+1806,Please keep Project Nimbus launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+1406,I used card 5105 9847 9049 5053 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1396,I used card 4012 9991 4461 7736 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+451,"while queue:
+    refund = queue.popleft()
+    visited.add(refund)
+    queue.extend(n for n in graph[refund] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+717,"My new number is +1-555-0174, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1609,"Please update Vikram Malhotra's record: DOB 19-07-1998, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1409,Save card 5105 2822 1252 6922 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1248,Here's the password for the guest account: Falcon@902,PASSWORD,CONFIDENTIAL,PASSWORD_11
+773,I gave the recruiter my number +91-840137082 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+504,"I updated my contact email to riya.khan795@acmecorp-test.io, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+772,I gave the recruiter my number +91-761830338 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+530,"My personal email is tanya.gupta482@example.net, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1692,Riya Bose's tax ID is 4429 3754 1043.,PII,CONFIDENTIAL,PII_13
+948,"The webhook secret is api_key_WgjJK7ggWW122qOJDkyMQyy2QdDq, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+1094,Here's my personal access token in case you need it: AKIAXX0MrUPimLgz9smcb2wjZ3bdA,API_KEY,CONFIDENTIAL,API_KEY_15
+1814,Fernwood Health's salary bands for the Project Atlas team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+142,Summarize the immune system in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+1289,My email password used to be Rocket!959 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+826,The technician's contact number is +91-620071854.,PHONE,CONFIDENTIAL,PHONE_11
+158,What's a fun fact about urbanization that most people don't know?,SAFE,SAFE,SAFE_14
+955,"The webhook secret is xoxb-DmhQGz1j9v939i1lfu9td, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+1307,The vendor portal login uses password Shadow#733.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+1662,Karan Gupta (DOB 04-09-1980) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+917,Here's the API key you asked for: api_key_ByVKFvbgz7h6itCmDDBRtsY,API_KEY,CONFIDENTIAL,API_KEY_02
+1317,"My card number is 4242 3464 7530 7911, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+1005,I found this key in the old config file: sk-test-yuj9Bvt9uxVATLInV5p7ByT8KG9s,API_KEY,CONFIDENTIAL,API_KEY_09
+1775,This is an internal-only summary of Harborline Shipping's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+1393,The refund should go back to card 4111 0813 1405 1143.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+1740,Internal memo: Fernwood Health's Q3 pricing strategy for Project Atlas is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1568,The applicant Riya Verma submitted ID 4812 2875 1630 with the form.,PII,CONFIDENTIAL,PII_04
+1155,Use username 'support' and password Summer!102 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+283,Here's the plan for tomorrow's user sync.,SAFE,SAFE,SAFE_28
+1884,Internal only — Ridgeview Software's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+245,Flight 6E-859 departs from gate D18 at 3:30 PM.,SAFE,SAFE,SAFE_23
+938,"I accidentally committed the key sk-test-MMOE2DfxzNXp9HbxSDWv to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+340,"class ShipmentManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+579,Sign up for the newsletter using neha.iyer81@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_08
+110,What's the history behind our understanding of osmosis?,SAFE,SAFE,SAFE_10
+951,"The webhook secret is sk-live-xKl1Kvk3UQrxkJ71OQqzbWV, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+1468,I need to update my card on file to 5105 3138 8489 2464.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+241,"Reference ticket number is TCK-44600, raised yesterday.",SAFE,SAFE,SAFE_22
+1600,Arjun Kapoor's national ID number is 3923 3346 1687.,PII,CONFIDENTIAL,PII_06
+1502,Use card 4242 5681 5577 5592 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1463,Please don't store card 4012 6339 8101 5601 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1421,Save card 4012 8662 8243 2972 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1788,Confidential: Northwind Analytics board meeting notes on the Project Orion merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+1017,The deployment script needs ACCESS_KEY=AKIA2Vrks4Q4COfFlK3HyubC332fuO.,API_KEY,CONFIDENTIAL,API_KEY_10
+213,"We had a great turnout at the warehouse demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+375,"def is_valid_vendor(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+1341,I entered card 5555 1224 6270 9312 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+331,"SELECT packageid, COUNT(*) FROM packages GROUP BY packageid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+1698,Tanya Joshi's tax ID is 6107 9552 6193.,PII,CONFIDENTIAL,PII_13
+1113,"My login is admin / Falcon@844, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+1455,Please don't store card 5555 4877 0322 8285 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+865,My roommate's number is +1-555-0117 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+947,"The webhook secret is sk-live-JGJ8j6B6knlceQmYjKtTYfII1G4a, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+521,Can you CC simran.mehta966@example.net on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+634,Please confirm your registration by replying from meera.khan603@example.net.,EMAIL,CONFIDENTIAL,EMAIL_12
+1673,Sameer Patel (DOB 06-04-1998) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1151,Use username 'support' and password Shadow!883 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+511,"I updated my contact email to aarav.singh462@brightpath-test.org, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+305,Can you proofread this supplier update before I send it out?,SAFE,SAFE,SAFE_30
+1252,Here's the password for the guest account: Tr0ub4dor!610,PASSWORD,CONFIDENTIAL,PASSWORD_11
+576,Sign up for the newsletter using isha.malhotra368@example.net.,EMAIL,CONFIDENTIAL,EMAIL_08
+1796,Confidential: Brightpath Systems board meeting notes on the Project Cascade merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+1261,The router admin password is Rocket#299.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+913,Here's the API key you asked for: sk-test-BIzbvfLuxsyf348JkxisEdAAEe,API_KEY,CONFIDENTIAL,API_KEY_02
+757,"Our office landline is +91-941407343, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+66,Why is quantum computing important in real life?,SAFE,SAFE,SAFE_06
+1106,"My login is admin / Summer@95, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+541,"My personal email is simran.rao902@brightpath-test.org, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+411,"import React, { useState } from 'react';
+function CustomerCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+1613,"Please update Priya Joshi's record: DOB 26-02-1984, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1507,My backup card is 5555 4404 5036 8606 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+408,"import React, { useState } from 'react';
+function ProductCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+1826,Internal use only: competitor analysis for Lumen Financial's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+1654,We need Aarav Malhotra's ID 5490 8518 4320 for the KYC process.,PII,CONFIDENTIAL,PII_10
+529,"My personal email is rahul.iyer600@northwind-test.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+751,"Our office landline is +1-555-0189, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+508,"I updated my contact email to priya.reddy641@example.org, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+1063,Replace the placeholder with the real key sk-test-FZXIQ70SRXz4hibvQiB9G8 before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1495,Use card 4012 2503 4602 3285 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1127,"I reset my password to Tr0ub4dor@960, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+1605,"Please update Ananya Chopra's record: DOB 05-02-1983, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1689,Rohan Agarwal's tax ID is 3497 2687 4546.,PII,CONFIDENTIAL,PII_13
+1723,Please cross-check Nikhil Gupta's ID 8585 2444 2904 against the database.,PII,CONFIDENTIAL,PII_15
+1112,"My login is admin / Shadow@706, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+147,Summarize black holes in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+1497,Use card 5555 4902 3356 3569 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+150,Summarize evolution in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+775,I gave the recruiter my number +91-829602406 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+1148,Use username 'support' and password Winter&850 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+1690,Rahul Iyer's tax ID is 5307 2676 3075.,PII,CONFIDENTIAL,PII_13
+302,Can you proofread this employee update before I send it out?,SAFE,SAFE,SAFE_30
+695,You can reach me at +91-948858073 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+393,"public class InvoiceQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+1466,I need to update my card on file to 5105 6484 9921 8799.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+1014,I found this key in the old config file: api_key_l0jbt87sUYNTjlib9MLLK,API_KEY,CONFIDENTIAL,API_KEY_09
+1695,Isha Nair's tax ID is 9383 8203 7969.,PII,CONFIDENTIAL,PII_13
+125,Can you compare the Krebs cycle to something from everyday life?,SAFE,SAFE,SAFE_11
+291,Here's the plan for tomorrow's transaction sync.,SAFE,SAFE,SAFE_28
+120,Can you compare inflation to something from everyday life?,SAFE,SAFE,SAFE_11
+895,Use this key for the staging environment: api_key_LlpIn8srmRtv5XqhPx8Y7Xsr,API_KEY,CONFIDENTIAL,API_KEY_01
+182,Quarterly all-hands got moved to 10 AM on Friday.,SAFE,SAFE,SAFE_17
+1417,Save card 4111 5880 1788 3424 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+400,"public class AuctionQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+513,"I updated my contact email to ananya.malhotra724@example.net, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+1785,Confidential: Cobalt Logistics board meeting notes on the Project Meridian merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+1621,"Patient Karan Reddy, DOB 21-02-2003, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+1418,Save card 5105 6618 1258 1900 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1008,I found this key in the old config file: sk-test-FndTyBKFnryifJdyfFViiIEOm,API_KEY,CONFIDENTIAL,API_KEY_09
+1496,Use card 5105 1029 1502 4381 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+983,Our third-party integration uses the token api_key_GwcGoXWxKTVRgiDo1r2zlRWJha.,API_KEY,CONFIDENTIAL,API_KEY_07
+649,The vendor asked us to send the PO to priya.patel874@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_13
+1606,"Please update Pooja Dutta's record: DOB 25-03-1971, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1616,"Please update Rohan Kapoor's record: DOB 02-07-1976, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1386,The refund should go back to card 5555 1975 2498 8385.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+1626,"Patient Sameer Iyer, DOB 10-04-1988, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+1737,Internal memo: Northwind Analytics's Q3 pricing strategy for Project Compass is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1424,My corporate card number is 4012 3554 5207 5787.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+911,Here's the API key you asked for: ghp_Ic5t7KUSyekoZy3uUi9SF8dBZvV7,API_KEY,CONFIDENTIAL,API_KEY_02
+1724,Please cross-check Rohan Iyer's ID 2415 4041 6201 against the database.,PII,CONFIDENTIAL,PII_15
+380,UPDATE packages SET status = 'closed' WHERE package_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+912,Here's the API key you asked for: AKIAbq9Ew6AQOfMXSfjSNTtgatwqi,API_KEY,CONFIDENTIAL,API_KEY_02
+194,I think the customer migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+462,DELETE FROM appointments WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+1266,The router admin password is Summer&350.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+293,Here's the plan for tomorrow's order sync.,SAFE,SAFE,SAFE_28
+820,The technician's contact number is +1-555-0194.,PHONE,CONFIDENTIAL,PHONE_11
+982,Our third-party integration uses the token xoxb-kQ5KexibG4QZLl3L2GUfO3Ha.,API_KEY,CONFIDENTIAL,API_KEY_07
+1229,Set the new password to Summer!29 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+653,The vendor asked us to send the PO to aditya.singh321@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_13
+1061,Replace the placeholder with the real key ghp_l4NbVE8LwDBpQ8YxTbqKjCQwdw before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1469,I need to update my card on file to 5105 3013 7306 3713.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+230,"Reference ticket number is TCK-25129, raised yesterday.",SAFE,SAFE,SAFE_22
+1779,This is an internal-only summary of Northwind Analytics's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+275,I'm nervous about presenting our refund roadmap tomorrow.,SAFE,SAFE,SAFE_27
+1218,"I forgot my password, the old one was Falcon#865.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1284,My email password used to be Dragon#348 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+32,"I'm studying urbanization for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+790,Emergency contact number: +1-555-0195.,PHONE,CONFIDENTIAL,PHONE_08
+891,Use this key for the staging environment: xoxb-drL0PragiqwzcdIwrxBIZMLhf,API_KEY,CONFIDENTIAL,API_KEY_01
+1540,Please verify Rahul Kapoor's ID number 9870 9248 2710 before processing.,PII,CONFIDENTIAL,PII_02
+1180,Can you log in with the temporary password Shadow!280 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+435,"try:
+    result = process_appointment(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1102,"My login is admin / Winter@108, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+1769,Project Compass budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+1287,My email password used to be Summer#22 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+788,Emergency contact number: +1-555-0110.,PHONE,CONFIDENTIAL,PHONE_08
+456,"while queue:
+    shift = queue.popleft()
+    visited.add(shift)
+    queue.extend(n for n in graph[shift] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+1049,This is the temporary key for the demo: sk-live-oozm3eKdBnLlxCmwqubJrgCzV,API_KEY,CONFIDENTIAL,API_KEY_12
+1853,"Project Cascade: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+168,How would you teach blockchain to a ten-year-old?,SAFE,SAFE,SAFE_15
+1426,My corporate card number is 4012 2189 9280 1973.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1384,The refund should go back to card 4012 3718 6758 4529.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+337,"class OrderManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+620,Our HR contact email is isha.joshi223@northwind-test.com for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+343,"class AppointmentManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+1295,My email password used to be Winter&546 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+1090,Here's my personal access token in case you need it: sk-live-AfOJppfFhPllyf2sKCPMq72llUL2,API_KEY,CONFIDENTIAL,API_KEY_15
+721,"My new number is +1-555-0121, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+348,"for i in range(len(batchs) - 1):
+    if batchs[i] > batchs[i + 1]:
+        batchs[i], batchs[i+1] = batchs[i+1], batchs[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+568,"The client's email address is rohan.kapoor873@brightpath-test.org, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1251,Here's the password for the guest account: Winter#111,PASSWORD,CONFIDENTIAL,PASSWORD_11
+119,Can you compare quantum computing to something from everyday life?,SAFE,SAFE,SAFE_11
+1629,"Patient Priya Khan, DOB 04-05-1996, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+514,"I updated my contact email to kabir.gupta704@example.org, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+1671,Pooja Gupta (DOB 04-07-1974) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+580,Sign up for the newsletter using arjun.shah700@example.org.,EMAIL,CONFIDENTIAL,EMAIL_08
+1216,"I forgot my password, the old one was Tr0ub4dor@961.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1564,The applicant Tanya Pillai submitted ID 4569 7694 1959 with the form.,PII,CONFIDENTIAL,PII_04
+1781,This is an internal-only summary of Ridgeview Software's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+133,What questions should I ask my professor about the Krebs cycle?,SAFE,SAFE,SAFE_12
+950,"The webhook secret is ghp_FjtFi02blZZpC4RqZFNh, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+1493,Use card 4242 3053 6449 7290 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1743,Internal memo: Brightpath Systems's Q3 pricing strategy for Project Meridian is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+855,Add +91-984040798 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+507,"I updated my contact email to nikhil.shah62@acmecorp-test.io, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+756,"Our office landline is +91-769619341, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+13,What are the main factors that influence compound interest?,SAFE,SAFE,SAFE_02
+19,What are the main factors that influence photosynthesis?,SAFE,SAFE,SAFE_02
+474,Please send the invoice to nikhil.shah685@northwind-test.com by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+1550,"Pooja Verma lives at 42 Lotus Enclave, Sector 12, born on 22-05-1972.",PII,CONFIDENTIAL,PII_03
+1863,Ironclad Security leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+1173,Can you log in with the temporary password Purple&582 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1500,Use card 5555 0197 5368 8082 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1224,"I forgot my password, the old one was Winter@343.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+450,"while queue:
+    user = queue.popleft()
+    visited.add(user)
+    queue.extend(n for n in graph[user] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+454,"while queue:
+    warehouse = queue.popleft()
+    visited.add(warehouse)
+    queue.extend(n for n in graph[warehouse] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+517,Can you CC karan.chopra847@example.org on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+765,I gave the recruiter my number +91-679244185 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+558,"The client's email address is vikram.khan586@northwind-test.com, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+239,"Reference ticket number is TCK-36685, raised yesterday.",SAFE,SAFE,SAFE_22
+722,"My new number is +91-972104107, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+635,Please confirm your registration by replying from aarav.iyer272@example.com.,EMAIL,CONFIDENTIAL,EMAIL_12
+1697,Ananya Pillai's tax ID is 7442 7181 7316.,PII,CONFIDENTIAL,PII_13
+447,"CREATE TABLE payments (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1608,"Please update Aarav Bose's record: DOB 27-01-1993, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+17,What are the main factors that influence supply shocks?,SAFE,SAFE,SAFE_02
+1809,Harborline Shipping's salary bands for the Project Compass team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+1472,I need to update my card on file to 4111 9411 3352 6890.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+619,Our HR contact email is tanya.shah418@example.net for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+1490,Card 4242 7878 9516 7098 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+1818,Fernwood Health's salary bands for the Project Aurora team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+272,I'm nervous about presenting our vendor roadmap tomorrow.,SAFE,SAFE,SAFE_27
+828,The technician's contact number is +91-714179623.,PHONE,CONFIDENTIAL,PHONE_11
+79,Can you quiz me on tectonic plates?,SAFE,SAFE,SAFE_07
+1593,Meera Rao's national ID number is 7699 8368 8138.,PII,CONFIDENTIAL,PII_06
+569,"The client's email address is pooja.mehta978@example.net, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+887,Use +1-555-0128 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+460,"while queue:
+    contract = queue.popleft()
+    visited.add(contract)
+    queue.extend(n for n in graph[contract] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+134,What questions should I ask my professor about cellular respiration?,SAFE,SAFE,SAFE_12
+999,Can you test the endpoint with key AKIAhVpVBTcCVG8DQtuNc6Gp?,API_KEY,CONFIDENTIAL,API_KEY_08
+1494,Use card 5555 9165 2514 0245 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1119,"I reset my password to Rocket&944, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+406,"import React, { useState } from 'react';
+function AppointmentCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+1429,My corporate card number is 4111 2180 7508 6856.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+347,"for i in range(len(employees) - 1):
+    if employees[i] > employees[i + 1]:
+        employees[i], employees[i+1] = employees[i+1], employees[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+897,Use this key for the staging environment: xoxb-z52Dm7tO4fJHS64k2k59yE,API_KEY,CONFIDENTIAL,API_KEY_01
+516,Can you CC divya.patel558@example.org on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1026,The deployment script needs ACCESS_KEY=xoxb-a5QKfCcGOtJt3tlrtBhjq.,API_KEY,CONFIDENTIAL,API_KEY_10
+1598,Tanya Kapoor's national ID number is 1791 9481 9604.,PII,CONFIDENTIAL,PII_06
+590,"I lost access to simran.sharma850@brightpath-test.org, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+1460,Please don't store card 4111 7146 3282 5273 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+178,Quarterly all-hands got moved to right after lunch on Friday.,SAFE,SAFE,SAFE_17
+595,"I lost access to karan.patel926@brightpath-test.org, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+1312,"My card number is 4012 4209 2550 2211, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+1419,Save card 5555 3329 6679 4922 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1071,Replace the placeholder with the real key ghp_VMxA9zdpotfQ1hkHcOAF before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+752,"Our office landline is +1-555-0158, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+70,Can you quiz me on the stock market?,SAFE,SAFE,SAFE_07
+1619,"Patient Ananya Reddy, DOB 09-08-1979, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+254,Flight SG-921 departs from gate F28 at 3:30 PM.,SAFE,SAFE,SAFE_23
+1663,Vikram Bose (DOB 19-04-1975) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1475,I need to update my card on file to 4242 9128 1987 2074.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+113,What's the history behind our understanding of cellular respiration?,SAFE,SAFE,SAFE_10
+1501,Use card 4012 4088 4008 6303 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1630,"Patient Kabir Kapoor, DOB 08-11-1997, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+538,"My personal email is vikram.dutta371@acmecorp-test.io, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1529,"Karan Patel's date of birth is 15-02-1993, needed for the background check.",PII,CONFIDENTIAL,PII_01
+903,Use this key for the staging environment: api_key_bOM63oeKBP2pcBHUWi9o4,API_KEY,CONFIDENTIAL,API_KEY_01
+284,Here's the plan for tomorrow's session sync.,SAFE,SAFE,SAFE_28
+1763,Project Phoenix budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+978,Our third-party integration uses the token ghp_CFyFP0YMkFBl6O7TDwnEdw.,API_KEY,CONFIDENTIAL,API_KEY_07
+1400,I used card 4111 1099 4600 4360 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1343,I entered card 5105 1724 4360 1414 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+782,Emergency contact number: +91-750419829.,PHONE,CONFIDENTIAL,PHONE_08
+754,"Our office landline is +91-768743530, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+795,Please share +1-555-0112 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1292,My email password used to be Dragon#964 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+72,Can you quiz me on fermentation?,SAFE,SAFE,SAFE_07
+1092,Here's my personal access token in case you need it: AKIAlsCDbkjR7D1KmJZdaNS80TKIsEEK,API_KEY,CONFIDENTIAL,API_KEY_15
+586,"I lost access to divya.chopra468@example.net, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+1219,"I forgot my password, the old one was Purple@125.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1107,"My login is admin / Falcon!910, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+176,Quarterly all-hands got moved to end of day on Monday.,SAFE,SAFE,SAFE_17
+479,Please send the invoice to vikram.gupta248@brightpath-test.org by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+77,Can you quiz me on deforestation?,SAFE,SAFE,SAFE_07
+1534,Please verify Isha Nair's ID number 8185 3958 5630 before processing.,PII,CONFIDENTIAL,PII_02
+1427,My corporate card number is 5555 7640 1545 1114.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+31,"I'm studying gravity for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+688,You can reach me at +1-555-0158 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1011,I found this key in the old config file: api_key_dOayq0O1b1Oox8gt1GlFC5bp,API_KEY,CONFIDENTIAL,API_KEY_09
+712,"My new number is +91-972270726, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+957,"The webhook secret is sk-live-Fsec6CGGAQi9EUk4Ybn9nbFhSX, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+192,I think the package migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+1007,I found this key in the old config file: AKIAKsTJedVvYz11oOLaWxscH,API_KEY,CONFIDENTIAL,API_KEY_09
+638,Please confirm your registration by replying from sameer.agarwal112@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_12
+478,Please send the invoice to rahul.pillai11@acmecorp-test.io by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+1883,Internal only — Northwind Analytics's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+628,Please confirm your registration by replying from vikram.gupta850@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_12
+1833,The Project Atlas security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+335,"class RequestManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+1774,This is an internal-only summary of Fernwood Health's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+1660,Arjun Khan (DOB 15-06-2000) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1408,Save card 5105 3742 1126 8745 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1622,"Patient Vikram Sharma, DOB 14-02-2001, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+274,I'm nervous about presenting our payment roadmap tomorrow.,SAFE,SAFE,SAFE_27
+683,You can reach me at +91-611031743 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1452,Please don't store card 4012 4351 4266 6797 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1816,Meadowbrook Insurance's salary bands for the Project Compass team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+636,Please confirm your registration by replying from karan.singh539@example.com.,EMAIL,CONFIDENTIAL,EMAIL_12
+1890,Internal only — Ironclad Security's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+1601,Vikram Singh's national ID number is 9505 5558 6150.,PII,CONFIDENTIAL,PII_06
+174,Our team retro is scheduled for Tuesday afternoon.,SAFE,SAFE,SAFE_16
+388,UPDATE shipments SET status = 'closed' WHERE shipment_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+345,"class CartManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+1732,Internal memo: Cobalt Logistics's Q3 pricing strategy for Project Orion is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1456,Please don't store card 5555 6090 0785 7317 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1001,Can you test the endpoint with key sk-live-NRXho8WUXBlQwi3EBsRllvTrZ?,API_KEY,CONFIDENTIAL,API_KEY_08
+824,The technician's contact number is +1-555-0155.,PHONE,CONFIDENTIAL,PHONE_11
+1395,I used card 4012 3438 1103 7912 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1836,The Project Beacon security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+156,What's a fun fact about thermodynamics that most people don't know?,SAFE,SAFE,SAFE_14
+1263,The router admin password is Tr0ub4dor&244.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+681,Use simran.agarwal499@acmecorp-test.io as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+760,"Our office landline is +91-971965637, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+849,Add +1-555-0118 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+22,What are the main factors that influence artificial intelligence?,SAFE,SAFE,SAFE_02
+1313,"My card number is 4242 0213 3862 7991, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+1717,Please cross-check Neha Agarwal's ID 7000 9459 1232 against the database.,PII,CONFIDENTIAL,PII_15
+171,How would you teach inflation to a ten-year-old?,SAFE,SAFE,SAFE_15
+1868,Fernwood Health leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+151,Summarize the stock market in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+1062,Replace the placeholder with the real key api_key_dsNemMVLkut0XqRwHviirWz5k before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+444,"CREATE TABLE suppliers (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1024,The deployment script needs ACCESS_KEY=sk-live-Ju4Xej0vxHkLlhWt1Sqf2xZ.,API_KEY,CONFIDENTIAL,API_KEY_10
+671,Use arjun.gupta146@brightpath-test.org as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+277,I'm nervous about presenting our driver roadmap tomorrow.,SAFE,SAFE,SAFE_27
+1153,Use username 'support' and password Falcon&25 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+677,Use isha.gupta279@northwind-test.com as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+802,Please share +1-555-0199 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1454,Please don't store card 5105 8682 7518 9374 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+714,"My new number is +91-894183695, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1214,"I forgot my password, the old one was Winter#869.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+627,Please confirm your registration by replying from ananya.nair806@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_12
+868,My roommate's number is +91-756442431 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+484,Please send the invoice to meera.bose567@acmecorp-test.io by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+304,Can you proofread this package update before I send it out?,SAFE,SAFE,SAFE_30
+678,Use divya.bose622@northwind-test.com as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+1060,Replace the placeholder with the real key AKIA9e7Ufz4zISUilxIcZZsICbaq7ZDO before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+374,"def is_valid_package(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+1532,"Ananya Singh's date of birth is 24-09-1972, needed for the background check.",PII,CONFIDENTIAL,PII_01
+739,"For appointment confirmations, text +1-555-0193.",PHONE,CONFIDENTIAL,PHONE_05
+1810,Harborline Shipping's salary bands for the Project Solstice team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+1851,"Project Compass: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+438,"try:
+    result = process_booking(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+870,My roommate's number is +1-555-0191 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+403,"import React, { useState } from 'react';
+function TicketCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+1772,Project Comet budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+1068,Replace the placeholder with the real key sk-test-SrSKqWNyDLzErVgpEMigdeQ8xQ before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1056,This is the temporary key for the demo: AKIAsiWkqE8VcvCk5Sr80QPjocthqlI,API_KEY,CONFIDENTIAL,API_KEY_12
+25,"I'm studying artificial intelligence for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+860,Add +91-626821075 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+412,"import React, { useState } from 'react';
+function AccountCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+82,Can you quiz me on monsoon formation?,SAFE,SAFE,SAFE_07
+987,Our third-party integration uses the token xoxb-TefrZ4v7rLm5Jqzges6X.,API_KEY,CONFIDENTIAL,API_KEY_07
+949,"The webhook secret is ghp_uXt01Q8osUVtTLfB4zEG, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+332,"SELECT supplierid, COUNT(*) FROM suppliers GROUP BY supplierid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+410,"import React, { useState } from 'react';
+function SupplierCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+130,Can you compare plate tectonics to something from everyday life?,SAFE,SAFE,SAFE_11
+452,"while queue:
+    auction = queue.popleft()
+    visited.add(auction)
+    queue.extend(n for n in graph[auction] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+1387,The refund should go back to card 4242 4300 7910 7545.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+1397,I used card 5555 1971 3060 8450 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1541,Please verify Isha Joshi's ID number 7731 8966 5583 before processing.,PII,CONFIDENTIAL,PII_02
+204,"We had a great turnout at the appointment demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+743,"For appointment confirmations, text +91-696707983.",PHONE,CONFIDENTIAL,PHONE_05
+62,Why is plate tectonics important in real life?,SAFE,SAFE,SAFE_06
+780,Emergency contact number: +1-555-0129.,PHONE,CONFIDENTIAL,PHONE_08
+20,What are the main factors that influence machine learning basics?,SAFE,SAFE,SAFE_02
+1595,Rohan Nair's national ID number is 1127 7060 8430.,PII,CONFIDENTIAL,PII_06
+285,Here's the plan for tomorrow's voucher sync.,SAFE,SAFE,SAFE_28
+1259,The router admin password is Rocket@319.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+1790,Confidential: Fernwood Health board meeting notes on the Project Vertex merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+1283,My email password used to be Dragon#225 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+1718,Please cross-check Arjun Singh's ID 2007 2064 4161 against the database.,PII,CONFIDENTIAL,PII_15
+138,What questions should I ask my professor about artificial intelligence?,SAFE,SAFE,SAFE_12
+71,Can you quiz me on black holes?,SAFE,SAFE,SAFE_07
+769,I gave the recruiter my number +1-555-0138 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+372,"def is_valid_account(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+528,Can you CC tanya.dutta668@northwind-test.com on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+858,Add +91-980557676 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+458,"while queue:
+    order = queue.popleft()
+    visited.add(order)
+    queue.extend(n for n in graph[order] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+1515,My backup card is 4111 3450 1796 4856 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1512,My backup card is 4012 1873 9902 0745 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1725,Please cross-check Nikhil Sharma's ID 3774 1171 4563 against the database.,PII,CONFIDENTIAL,PII_15
+764,"Our office landline is +1-555-0171, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+404,"import React, { useState } from 'react';
+function VoucherCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+974,Our third-party integration uses the token sk-live-WsfVByODHiyXH7iP4XTx6IIh.,API_KEY,CONFIDENTIAL,API_KEY_07
+1226,Set the new password to Falcon&981 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+515,Can you CC rahul.agarwal678@example.org on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1485,Card 4111 2864 3286 4125 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+271,What does 'confidential' mean in a legal contract?,SAFE,SAFE,SAFE_26
+442,"CREATE TABLE sessions (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1172,Can you log in with the temporary password Winter!782 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+371,"def is_valid_supplier(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+791,Emergency contact number: +91-819083764.,PHONE,CONFIDENTIAL,PHONE_08
+181,Quarterly all-hands got moved to 10 AM on Tuesday.,SAFE,SAFE,SAFE_17
+184,Quarterly all-hands got moved to first thing tomorrow on Monday.,SAFE,SAFE,SAFE_17
+250,Flight 6E-798 departs from gate B22 at 3:30 PM.,SAFE,SAFE,SAFE_23
+777,I gave the recruiter my number +91-928628439 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+61,Why is osmosis important in real life?,SAFE,SAFE,SAFE_06
+800,Please share +1-555-0192 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+625,Our HR contact email is rohan.reddy658@brightpath-test.org for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+76,Can you quiz me on the immune system?,SAFE,SAFE,SAFE_07
+1603,Simran Chopra's national ID number is 8973 8191 4664.,PII,CONFIDENTIAL,PII_06
+536,"My personal email is arjun.dutta845@example.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1394,I used card 4012 7243 3852 9640 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+248,Flight 6E-540 departs from gate B2 at 3:30 PM.,SAFE,SAFE,SAFE_23
+159,What's a fun fact about the water cycle that most people don't know?,SAFE,SAFE,SAFE_14
+976,Our third-party integration uses the token ghp_hOgM3tBMsKJwtAapnTB0iT2Cw.,API_KEY,CONFIDENTIAL,API_KEY_07
+1860,"Project Atlas: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+1834,The Project Horizon security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+485,Please send the invoice to meera.singh764@acmecorp-test.io by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+328,"SELECT licenseid, COUNT(*) FROM licenses GROUP BY licenseid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+1451,Please don't store card 4242 5866 4435 5719 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+934,"I accidentally committed the key sk-test-8A78irco0z3CUKFNyKdPis05yZuC to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+172,Our team retro is scheduled for Monday afternoon.,SAFE,SAFE,SAFE_16
+1339,I entered card 4012 8628 5160 4901 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+1010,I found this key in the old config file: ghp_vXsDuTnHUIM9RPx4Gpdm,API_KEY,CONFIDENTIAL,API_KEY_09
+453,"while queue:
+    voucher = queue.popleft()
+    visited.add(voucher)
+    queue.extend(n for n in graph[voucher] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+905,Here's the API key you asked for: sk-test-sRX4I8IipmO50fSlqPL2lVS,API_KEY,CONFIDENTIAL,API_KEY_02
+251,Flight UK-898 departs from gate E29 at 10 AM.,SAFE,SAFE,SAFE_23
+242,Flight SG-357 departs from gate A3 at first thing tomorrow.,SAFE,SAFE,SAFE_23
+469,DELETE FROM licenses WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+1238,Set the new password to Summer!998 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1118,"I reset my password to Tr0ub4dor@765, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+1859,"Project Griffin: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+369,"def is_valid_inventory(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+154,What's a fun fact about renewable energy that most people don't know?,SAFE,SAFE,SAFE_14
+598,"I lost access to karan.gupta932@example.net, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+405,"import React, { useState } from 'react';
+function EmployeeCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+1556,"Rahul Iyer lives at 42 Lotus Enclave, Sector 12, born on 13-08-1985.",PII,CONFIDENTIAL,PII_03
+1742,Internal memo: Silverline Media's Q3 pricing strategy for Project Comet is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1665,Nikhil Khan (DOB 02-08-1986) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+326,"SELECT invoiceid, COUNT(*) FROM invoices GROUP BY invoiceid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+1798,Please keep Project Meridian launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+877,Use +91-897393186 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+859,Add +1-555-0162 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+1241,Here's the password for the guest account: Tr0ub4dor&942,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1403,I used card 4111 6671 3875 6220 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1390,The refund should go back to card 4012 6852 0859 4339.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+196,I think the account migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+1533,"Aarav Khan's date of birth is 27-01-1974, needed for the background check.",PII,CONFIDENTIAL,PII_01
+888,Use +1-555-0150 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+299,Can you proofread this customer update before I send it out?,SAFE,SAFE,SAFE_30
+1726,Please cross-check Meera Rao's ID 2331 5042 6042 against the database.,PII,CONFIDENTIAL,PII_15
+197,I think the request migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+1086,Here's my personal access token in case you need it: ghp_ZUYIPn9aVl5pEfur8hx5gu,API_KEY,CONFIDENTIAL,API_KEY_15
+1150,Use username 'support' and password Falcon#604 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+1766,Project Vertex budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+1864,Brightpath Systems leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+466,DELETE FROM batchs WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+581,Sign up for the newsletter using tanya.agarwal147@example.org.,EMAIL,CONFIDENTIAL,EMAIL_08
+1276,Please change the password from Dragon@846 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+1511,My backup card is 5105 8007 2646 3272 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+833,The technician's contact number is +1-555-0182.,PHONE,CONFIDENTIAL,PHONE_11
+1316,"My card number is 4012 4944 8018 3741, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+651,The vendor asked us to send the PO to ananya.singh348@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_13
+1423,My corporate card number is 4242 1317 3449 6618.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1531,"Ananya Khan's date of birth is 03-10-1970, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1237,Set the new password to Shadow!593 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1228,Set the new password to Rocket&319 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+851,Add +91-758518659 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+1047,This is the temporary key for the demo: xoxb-z6LclE6MWvaohGfwVHnVOrmXQ8D,API_KEY,CONFIDENTIAL,API_KEY_12
+1888,Internal only — Lumen Financial's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+1305,The vendor portal login uses password Rocket@511.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+1125,"I reset my password to Shadow#29, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+399,"public class EmployeeQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+1503,Use card 4012 2683 3904 6105 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+132,What questions should I ask my professor about supply shocks?,SAFE,SAFE,SAFE_12
+167,How would you teach thermodynamics to a ten-year-old?,SAFE,SAFE,SAFE_15
+575,Sign up for the newsletter using simran.sharma48@example.net.,EMAIL,CONFIDENTIAL,EMAIL_08
+799,Please share +1-555-0179 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1015,I found this key in the old config file: sk-test-wQDFLSx0EilbVaqzU9Ue,API_KEY,CONFIDENTIAL,API_KEY_09
+1795,Confidential: Cobalt Logistics board meeting notes on the Project Atlas merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+352,"for i in range(len(vouchers) - 1):
+    if vouchers[i] > vouchers[i + 1]:
+        vouchers[i], vouchers[i+1] = vouchers[i+1], vouchers[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+783,Emergency contact number: +1-555-0140.,PHONE,CONFIDENTIAL,PHONE_08
+1729,Please cross-check Divya Khan's ID 4084 5469 4264 against the database.,PII,CONFIDENTIAL,PII_15
+1865,Meadowbrook Insurance leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+1817,Ridgeview Software's salary bands for the Project Orion team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+145,Summarize artificial intelligence in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+195,I think the report migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+758,"Our office landline is +91-872950208, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+212,"We had a great turnout at the request demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+784,Emergency contact number: +1-555-0189.,PHONE,CONFIDENTIAL,PHONE_08
+471,DELETE FROM requests WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+741,"For appointment confirmations, text +91-651551377.",PHONE,CONFIDENTIAL,PHONE_05
+323,"SELECT shipmentid, COUNT(*) FROM shipments GROUP BY shipmentid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+647,The vendor asked us to send the PO to arjun.shah544@example.net.,EMAIL,CONFIDENTIAL,EMAIL_13
+430,"try:
+    result = process_inventory(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+592,"I lost access to isha.shah764@northwind-test.com, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+1800,Please keep Project Orion launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+1891,Internal only — Meadowbrook Insurance's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+1508,My backup card is 4242 9472 9385 3737 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1624,"Patient Isha Singh, DOB 23-05-1994, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+1344,I entered card 4012 0873 4437 3399 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+1522,"Pooja Bose's date of birth is 05-05-1972, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1861,Cobalt Logistics leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+1264,The router admin password is Falcon!353.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+1100,"My login is admin / Rocket&307, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+866,My roommate's number is +91-750818905 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+1727,Please cross-check Vikram Nair's ID 6087 1873 7214 against the database.,PII,CONFIDENTIAL,PII_15
+1764,Project Atlas budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+1342,I entered card 5555 4641 9474 0938 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+578,Sign up for the newsletter using divya.agarwal699@example.org.,EMAIL,CONFIDENTIAL,EMAIL_08
+322,"SELECT subscriptionid, COUNT(*) FROM subscriptions GROUP BY subscriptionid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+146,Summarize deforestation in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+439,"CREATE TABLE carts (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1525,"Aarav Verma's date of birth is 01-04-2004, needed for the background check.",PII,CONFIDENTIAL,PII_01
+463,DELETE FROM inventorys WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+1281,Please change the password from Tr0ub4dor#999 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+1170,Can you log in with the temporary password Falcon!649 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1232,Set the new password to Winter#111 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+542,"My personal email is tanya.patel30@brightpath-test.org, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1269,Please change the password from Purple#429 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+872,My roommate's number is +91-677454225 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+465,DELETE FROM reviews WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+992,Can you test the endpoint with key AKIA90GSWsIJyQdYDNBuwI5pbh?,API_KEY,CONFIDENTIAL,API_KEY_08
+1478,Card 4111 5244 2740 7736 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+1314,"My card number is 5105 9028 7445 6452, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+1672,Arjun Nair (DOB 25-01-1980) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1489,Card 4012 7083 4356 2480 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+1628,"Patient Riya Joshi, DOB 18-08-1988, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+475,Please send the invoice to aditya.sharma507@example.net by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+1004,I found this key in the old config file: xoxb-YXdMGTZenGgoxlOJ6IIUVJPRAg,API_KEY,CONFIDENTIAL,API_KEY_09
+557,"The client's email address is pooja.mehta467@example.net, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+672,Use aarav.gupta765@acmecorp-test.io as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+175,Our team retro is scheduled for Thursday afternoon.,SAFE,SAFE,SAFE_16
+798,Please share +91-827905932 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1319,"My card number is 5555 6316 1860 1934, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+162,How would you teach supply and demand to a ten-year-old?,SAFE,SAFE,SAFE_15
+648,The vendor asked us to send the PO to kabir.dutta620@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_13
+1840,The Project Aurora security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+720,"My new number is +1-555-0146, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1596,Arjun Kapoor's national ID number is 8185 3895 9334.,PII,CONFIDENTIAL,PII_06
+566,"The client's email address is karan.gupta481@example.net, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1045,This is the temporary key for the demo: xoxb-ZdYhKMdmuZTyhQHt7nckdq,API_KEY,CONFIDENTIAL,API_KEY_12
+1291,My email password used to be Rocket&829 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+885,Use +1-555-0163 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+654,The vendor asked us to send the PO to rahul.joshi977@example.org.,EMAIL,CONFIDENTIAL,EMAIL_13
+279,I'm nervous about presenting our invoice roadmap tomorrow.,SAFE,SAFE,SAFE_27
+766,I gave the recruiter my number +91-821257528 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+300,Can you proofread this driver update before I send it out?,SAFE,SAFE,SAFE_30
+1546,Please verify Rahul Agarwal's ID number 7294 5921 2384 before processing.,PII,CONFIDENTIAL,PII_02
+914,Here's the API key you asked for: ghp_SEMCiay0x1BAZOKsLRDlytT,API_KEY,CONFIDENTIAL,API_KEY_02
+368,"def is_valid_employee(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+1346,I entered card 5555 6303 4249 3709 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+1562,The applicant Rahul Iyer submitted ID 8271 8581 1282 with the form.,PII,CONFIDENTIAL,PII_04
+354,"for i in range(len(licenses) - 1):
+    if licenses[i] > licenses[i + 1]:
+        licenses[i], licenses[i+1] = licenses[i+1], licenses[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+1819,Ironclad Security's salary bands for the Project Falcon team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+1416,Save card 4111 1089 1729 5700 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1115,"I reset my password to Shadow&729, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+63,Why is climate change important in real life?,SAFE,SAFE,SAFE_06
+26,"I'm studying supply and demand for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+1548,"Arjun Mehta lives at 42 Lotus Enclave, Sector 12, born on 15-01-1984.",PII,CONFIDENTIAL,PII_03
+621,Our HR contact email is kabir.khan876@example.net for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+501,"I updated my contact email to isha.nair153@acmecorp-test.io, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+907,Here's the API key you asked for: api_key_Vtmtc1TbIKSsmoJpI6uVESTCTvi,API_KEY,CONFIDENTIAL,API_KEY_02
+1280,Please change the password from Winter@647 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+379,UPDATE accounts SET status = 'closed' WHERE account_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+123,Can you compare machine learning basics to something from everyday life?,SAFE,SAFE,SAFE_11
+848,Add +91-899635939 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+1799,Please keep Project Horizon launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+1572,The applicant Meera Patel submitted ID 2269 9305 8271 with the form.,PII,CONFIDENTIAL,PII_04
+1590,Arjun Singh's national ID number is 6805 3088 7591.,PII,CONFIDENTIAL,PII_06
+1225,"I forgot my password, the old one was Tr0ub4dor!756.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1235,Set the new password to Winter#967 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1499,Use card 5105 4397 4444 0598 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1268,Please change the password from Rocket@873 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+863,My roommate's number is +1-555-0180 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+862,My roommate's number is +1-555-0176 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+14,What are the main factors that influence renewable energy?,SAFE,SAFE,SAFE_02
+564,"The client's email address is priya.dutta933@northwind-test.com, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1097,Here's my personal access token in case you need it: AKIAiA437GQ6BVSGeuyVAyc5jJ8,API_KEY,CONFIDENTIAL,API_KEY_15
+1765,Project Cascade budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+1867,Ridgeview Software leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+481,Please send the invoice to tanya.bose459@example.com by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+1731,Internal memo: Cobalt Logistics's Q3 pricing strategy for Project Vertex is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1547,Please verify Isha Chopra's ID number 7290 9115 1308 before processing.,PII,CONFIDENTIAL,PII_02
+1666,Divya Malhotra (DOB 24-06-1979) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1053,This is the temporary key for the demo: xoxb-Td6P3gwMwkIeRm8ohD6J7nUnv,API_KEY,CONFIDENTIAL,API_KEY_12
+1720,Please cross-check Kabir Verma's ID 5514 4255 9281 against the database.,PII,CONFIDENTIAL,PII_15
+306,Can you proofread this review update before I send it out?,SAFE,SAFE,SAFE_30
+1221,"I forgot my password, the old one was Winter!49.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1147,Use username 'support' and password Tr0ub4dor&282 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+685,You can reach me at +91-848848936 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1171,Can you log in with the temporary password Tr0ub4dor&276 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1696,Tanya Kapoor's tax ID is 5957 9198 2921.,PII,CONFIDENTIAL,PII_13
+1244,Here's the password for the guest account: Tr0ub4dor!302,PASSWORD,CONFIDENTIAL,PASSWORD_11
+128,Can you compare renewable energy to something from everyday life?,SAFE,SAFE,SAFE_11
+944,"I accidentally committed the key sk-live-bqgv3je68u93RAOLAdu8zI5H to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+278,I'm nervous about presenting our auction roadmap tomorrow.,SAFE,SAFE,SAFE_27
+993,Can you test the endpoint with key api_key_JOH8ruFWBeMC71N5ALz4evt?,API_KEY,CONFIDENTIAL,API_KEY_08
+1612,"Please update Rahul Gupta's record: DOB 28-03-1987, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+80,Can you quiz me on the water cycle?,SAFE,SAFE,SAFE_07
+991,Can you test the endpoint with key xoxb-oDMwEnRx0rliJogqoAxj7jXk?,API_KEY,CONFIDENTIAL,API_KEY_08
+1607,"Please update Riya Verma's record: DOB 18-09-1982, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+587,"I lost access to vikram.mehta874@northwind-test.com, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+249,Flight UK-915 departs from gate A29 at 3:30 PM.,SAFE,SAFE,SAFE_23
+822,The technician's contact number is +91-932366682.,PHONE,CONFIDENTIAL,PHONE_11
+939,"I accidentally committed the key xoxb-tqbLbYrYDwKojpoHXTV6J8y59kot to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+1521,"Meera Gupta's date of birth is 14-10-1975, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1465,I need to update my card on file to 4012 2380 1061 2103.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+69,Why is fermentation important in real life?,SAFE,SAFE,SAFE_06
+446,"CREATE TABLE transactions (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1569,The applicant Neha Dutta submitted ID 8214 6199 1687 with the form.,PII,CONFIDENTIAL,PII_04
+942,"I accidentally committed the key sk-test-tQhT66y97cL57nJ6iUo8k2fRN2 to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+321,"SELECT requestid, COUNT(*) FROM requests GROUP BY requestid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+1285,My email password used to be Dragon&201 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+1091,Here's my personal access token in case you need it: sk-live-HahkDQ17LEM8wPQyshaga81mOO,API_KEY,CONFIDENTIAL,API_KEY_15
+644,The vendor asked us to send the PO to aditya.shah152@example.com.,EMAIL,CONFIDENTIAL,EMAIL_13
+338,"class SessionManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+582,Sign up for the newsletter using kabir.chopra471@example.net.,EMAIL,CONFIDENTIAL,EMAIL_08
+389,"public class ContractQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+339,"class VoucherManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+1604,"Please update Neha Malhotra's record: DOB 09-10-1976, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+432,"try:
+    result = process_license(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1434,My corporate card number is 4242 0323 1779 7044.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+157,What's a fun fact about the solar system that most people don't know?,SAFE,SAFE,SAFE_14
+477,Please send the invoice to rahul.kapoor287@acmecorp-test.io by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+1854,"Project Beacon: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+1792,Confidential: Harborline Shipping board meeting notes on the Project Falcon merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+1012,I found this key in the old config file: xoxb-uyjvvMo8FYM23YbIrj3Ofx7L,API_KEY,CONFIDENTIAL,API_KEY_09
+1552,"Rahul Agarwal lives at 42 Lotus Enclave, Sector 12, born on 07-01-1991.",PII,CONFIDENTIAL,PII_03
+1458,Please don't store card 4012 4312 7115 3798 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1481,Card 5555 9857 1213 8619 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+1570,The applicant Pooja Khan submitted ID 1996 5244 5217 with the form.,PII,CONFIDENTIAL,PII_04
+737,"For appointment confirmations, text +1-555-0194.",PHONE,CONFIDENTIAL,PHONE_05
+1405,I used card 4111 9634 7511 4788 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+124,Can you compare fermentation to something from everyday life?,SAFE,SAFE,SAFE_11
+1392,The refund should go back to card 4242 9958 9880 0421.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+686,You can reach me at +1-555-0110 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+307,Can you proofread this subscription update before I send it out?,SAFE,SAFE,SAFE_30
+483,Please send the invoice to ananya.malhotra680@acmecorp-test.io by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+1243,Here's the password for the guest account: Summer@105,PASSWORD,CONFIDENTIAL,PASSWORD_11
+12,What are the main factors that influence deforestation?,SAFE,SAFE,SAFE_02
+1025,The deployment script needs ACCESS_KEY=ghp_GkxcmfFX4jvD2tuVg8G9mcy.,API_KEY,CONFIDENTIAL,API_KEY_10
+629,Please confirm your registration by replying from vikram.agarwal222@example.org.,EMAIL,CONFIDENTIAL,EMAIL_12
+1773,This is an internal-only summary of Meadowbrook Insurance's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+909,Here's the API key you asked for: ghp_FRA6l4GoMpvXe7CpRsZe,API_KEY,CONFIDENTIAL,API_KEY_02
+1052,This is the temporary key for the demo: AKIA8CiRl2MRaMxQGsURLJmQ,API_KEY,CONFIDENTIAL,API_KEY_12
+643,The vendor asked us to send the PO to kabir.gupta921@example.com.,EMAIL,CONFIDENTIAL,EMAIL_13
+1565,The applicant Nikhil Gupta submitted ID 5529 6145 2049 with the form.,PII,CONFIDENTIAL,PII_04
+126,Can you compare thermodynamics to something from everyday life?,SAFE,SAFE,SAFE_11
+1786,Confidential: Meadowbrook Insurance board meeting notes on the Project Zephyr merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+675,Use aditya.agarwal611@example.com as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+468,DELETE FROM auctions WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+1315,"My card number is 4012 8272 2554 8308, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+796,Please share +1-555-0118 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+398,"public class AppointmentQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+748,"For appointment confirmations, text +1-555-0147.",PHONE,CONFIDENTIAL,PHONE_05
+1299,The vendor portal login uses password Dragon#336.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+829,The technician's contact number is +1-555-0187.,PHONE,CONFIDENTIAL,PHONE_11
+952,"The webhook secret is sk-live-4OLapXs7NAxvpCPZygFP0xOLsgd, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+1887,Internal only — Fernwood Health's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+821,The technician's contact number is +1-555-0167.,PHONE,CONFIDENTIAL,PHONE_11
+518,Can you CC rohan.verma170@example.net on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1293,My email password used to be Summer@122 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+1101,"My login is admin / Dragon#732, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+614,Our HR contact email is isha.verma312@northwind-test.com for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+943,"I accidentally committed the key AKIAqpepgaxT82ExHgD1OQke to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+1560,"Meera Chopra lives at 42 Lotus Enclave, Sector 12, born on 22-05-1970.",PII,CONFIDENTIAL,PII_03
+589,"I lost access to meera.agarwal303@brightpath-test.org, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+1805,Please keep Project Cascade launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+1539,Please verify Meera Pillai's ID number 5795 5001 9631 before processing.,PII,CONFIDENTIAL,PII_02
+1811,Brightpath Systems's salary bands for the Project Compass team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+1349,I entered card 5105 3487 0673 1797 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+1389,The refund should go back to card 4111 7772 7988 5660.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+1105,"My login is admin / Falcon&849, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+170,How would you teach urbanization to a ten-year-old?,SAFE,SAFE,SAFE_15
+1647,We need Sameer Mehta's ID 8944 1692 3571 for the KYC process.,PII,CONFIDENTIAL,PII_10
+854,Add +1-555-0180 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+1648,We need Simran Malhotra's ID 1397 4768 5051 for the KYC process.,PII,CONFIDENTIAL,PII_10
+613,Our HR contact email is simran.singh120@example.org for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+1602,Priya Joshi's national ID number is 5666 3713 2942.,PII,CONFIDENTIAL,PII_06
+1290,My email password used to be Purple&468 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+34,"I'm studying the nervous system for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+73,Can you quiz me on thermodynamics?,SAFE,SAFE,SAFE_07
+640,Please confirm your registration by replying from isha.dutta309@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_12
+482,Please send the invoice to rohan.malhotra227@northwind-test.com by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+825,The technician's contact number is +91-946850196.,PHONE,CONFIDENTIAL,PHONE_11
+1782,This is an internal-only summary of Brightpath Systems's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+632,Please confirm your registration by replying from karan.pillai257@example.org.,EMAIL,CONFIDENTIAL,EMAIL_12
+1492,Use card 4242 8684 9526 8344 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+75,Can you quiz me on natural selection?,SAFE,SAFE,SAFE_07
+1574,The applicant Aditya Agarwal submitted ID 7084 7815 2169 with the form.,PII,CONFIDENTIAL,PII_04
+979,Our third-party integration uses the token sk-live-GXy42cOg8NqTJJxxK3ep8nz.,API_KEY,CONFIDENTIAL,API_KEY_07
+185,Quarterly all-hands got moved to first thing tomorrow on Thursday.,SAFE,SAFE,SAFE_17
+896,Use this key for the staging environment: api_key_vBpDmH5RiMKpPGNdzSgVa,API_KEY,CONFIDENTIAL,API_KEY_01
+1459,Please don't store card 5105 1300 0716 5952 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1412,Save card 4111 5977 1736 8651 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1561,"Priya Malhotra lives at 42 Lotus Enclave, Sector 12, born on 19-11-1990.",PII,CONFIDENTIAL,PII_03
+1768,Project Horizon budget figures are restricted to the finance team.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_04
+68,Why is monsoon formation important in real life?,SAFE,SAFE,SAFE_06
+823,The technician's contact number is +91-870012727.,PHONE,CONFIDENTIAL,PHONE_11
+1323,"My card number is 5555 4006 9387 3887, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+387,UPDATE auctions SET status = 'closed' WHERE auction_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+642,The vendor asked us to send the PO to divya.patel503@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_13
+467,DELETE FROM tasks WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+346,"for i in range(len(appointments) - 1):
+    if appointments[i] > appointments[i + 1]:
+        appointments[i], appointments[i+1] = appointments[i+1], appointments[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+329,"SELECT paymentid, COUNT(*) FROM payments GROUP BY paymentid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+986,Our third-party integration uses the token AKIAMGSL6YNBmOXrcLFokcoaj9WvyK.,API_KEY,CONFIDENTIAL,API_KEY_07
+1791,Confidential: Lumen Financial board meeting notes on the Project Cascade merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+679,Use divya.chopra221@acmecorp-test.io as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+470,DELETE FROM customers WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+350,"for i in range(len(claims) - 1):
+    if claims[i] > claims[i + 1]:
+        claims[i], claims[i+1] = claims[i+1], claims[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+690,You can reach me at +91-819673809 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+793,Please share +91-695318289 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+762,"Our office landline is +91-736802975, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+1066,Replace the placeholder with the real key sk-test-0DRlPgZ8AFzVtCGEwrSfExCTQ0oz before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1096,Here's my personal access token in case you need it: sk-live-gN14jsBFTgOui0BzVpYvFfxUwPjU,API_KEY,CONFIDENTIAL,API_KEY_15
+472,DELETE FROM tickets WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+1006,I found this key in the old config file: ghp_ntV6Y4FJJfCjq3ppsJJneuD,API_KEY,CONFIDENTIAL,API_KEY_09
+1116,"I reset my password to Dragon@992, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+441,"CREATE TABLE subscriptions (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+941,"I accidentally committed the key xoxb-W017x6ygsij6X7Ok8R5WnK to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+431,"try:
+    result = process_employee(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1803,Please keep Project Falcon launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+1498,Use card 4012 2413 2941 7800 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+1741,Internal memo: Orion Retail Group's Q3 pricing strategy for Project Beacon is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+933,"I accidentally committed the key ghp_sWTpw89WTHXj5bHNQauVxTt to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+287,Here's the plan for tomorrow's customer sync.,SAFE,SAFE,SAFE_28
+1828,Internal use only: competitor analysis for Ironclad Security's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+1380,The refund should go back to card 4111 9691 2626 6752.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+831,The technician's contact number is +1-555-0140.,PHONE,CONFIDENTIAL,PHONE_11
+1212,"I forgot my password, the old one was Summer&131.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1288,My email password used to be Falcon&671 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+1592,Aditya Agarwal's national ID number is 2765 1741 2208.,PII,CONFIDENTIAL,PII_06
+718,"My new number is +1-555-0169, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1183,Can you log in with the temporary password Summer&308 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1020,The deployment script needs ACCESS_KEY=api_key_c0PZs5dzlPLQKWkCJ5fswxeAI.,API_KEY,CONFIDENTIAL,API_KEY_10
+1258,The router admin password is Purple&599.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+869,My roommate's number is +91-820584397 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+682,Use simran.verma226@northwind-test.com as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+1182,Can you log in with the temporary password Purple&47 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+945,"I accidentally committed the key api_key_sfyIEdafZMDgmN8DhWD3qNyx to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+384,UPDATE orders SET status = 'closed' WHERE order_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+740,"For appointment confirmations, text +91-927307598.",PHONE,CONFIDENTIAL,PHONE_05
+787,Emergency contact number: +91-729270557.,PHONE,CONFIDENTIAL,PHONE_08
+1780,This is an internal-only summary of Orion Retail Group's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+1528,"Karan Singh's date of birth is 23-07-2005, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1435,My corporate card number is 5105 1815 3582 1483.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1300,The vendor portal login uses password Tr0ub4dor&645.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+231,"Reference ticket number is TCK-24029, raised yesterday.",SAFE,SAFE,SAFE_22
+584,Sign up for the newsletter using pooja.iyer76@northwind-test.com.,EMAIL,CONFIDENTIAL,EMAIL_08
+1668,Aarav Chopra (DOB 23-04-2005) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+1124,"I reset my password to Rocket#311, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+1223,"I forgot my password, the old one was Rocket@6.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+1398,I used card 4111 4247 2152 7893 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1487,Card 4012 1810 4312 0688 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+247,Flight 6E-658 departs from gate A27 at 10 AM.,SAFE,SAFE,SAFE_23
+480,Please send the invoice to divya.bose569@example.org by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+759,"Our office landline is +91-759370777, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+898,Use this key for the staging environment: api_key_2aJg8r9HE60DlgkCplTXJUk1,API_KEY,CONFIDENTIAL,API_KEY_01
+1432,My corporate card number is 4242 6110 6802 5059.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1303,The vendor portal login uses password Shadow!810.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+23,What are the main factors that influence monsoon formation?,SAFE,SAFE,SAFE_02
+397,"public class BookingQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+524,Can you CC aditya.shah257@example.com on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1067,Replace the placeholder with the real key AKIA13X6waPPyGPhyR8T3kwmm0z before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+107,What's the history behind our understanding of machine learning basics?,SAFE,SAFE,SAFE_10
+1176,Can you log in with the temporary password Winter&551 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1411,Save card 5105 2182 9603 7220 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1109,"My login is admin / Summer@379, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+940,"I accidentally committed the key api_key_4bR6IIl92EtEfonGa4miS40ub to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+1142,Use username 'support' and password Tr0ub4dor&586 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+207,"We had a great turnout at the account demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+890,Use this key for the staging environment: sk-test-FgohBid61z73Y5Slj9C2EfyCo,API_KEY,CONFIDENTIAL,API_KEY_01
+997,Can you test the endpoint with key ghp_zIykTyxqAoV4YQrUYz0lrNM?,API_KEY,CONFIDENTIAL,API_KEY_08
+180,Quarterly all-hands got moved to 3:30 PM on Tuesday.,SAFE,SAFE,SAFE_17
+355,"for i in range(len(reports) - 1):
+    if reports[i] > reports[i + 1]:
+        reports[i], reports[i+1] = reports[i+1], reports[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+624,Our HR contact email is vikram.patel972@northwind-test.com for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+803,Please share +1-555-0133 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+510,"I updated my contact email to neha.pillai77@example.org, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+899,Use this key for the staging environment: AKIAFfPliupqoU7sSaOQdhtzF3Rth4,API_KEY,CONFIDENTIAL,API_KEY_01
+1019,The deployment script needs ACCESS_KEY=AKIAMhimMpC1Ha2oKDzeLpHMIZdj.,API_KEY,CONFIDENTIAL,API_KEY_10
+199,I think the employee migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+776,I gave the recruiter my number +1-555-0146 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+693,You can reach me at +91-887277086 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1658,We need Arjun Sharma's ID 9143 7449 7106 for the KYC process.,PII,CONFIDENTIAL,PII_10
+639,Please confirm your registration by replying from sameer.khan969@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_12
+1381,The refund should go back to card 5105 6419 4060 1150.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+60,Why is gravity important in real life?,SAFE,SAFE,SAFE_06
+1098,Here's my personal access token in case you need it: api_key_8z2R2StvZ3LjzN3MMBvYOW2fHyS2,API_KEY,CONFIDENTIAL,API_KEY_15
+1126,"I reset my password to Dragon&803, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+1829,Internal use only: competitor analysis for Orion Retail Group's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+533,"My personal email is tanya.malhotra679@northwind-test.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1347,I entered card 4012 2462 6980 7696 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+356,"for i in range(len(requests) - 1):
+    if requests[i] > requests[i + 1]:
+        requests[i], requests[i+1] = requests[i+1], requests[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+243,Flight SG-949 departs from gate C2 at right after lunch.,SAFE,SAFE,SAFE_23
+122,Can you compare vaccination to something from everyday life?,SAFE,SAFE,SAFE_11
+455,"while queue:
+    payment = queue.popleft()
+    visited.add(payment)
+    queue.extend(n for n in graph[payment] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+1889,Internal only — Harborline Shipping's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+1815,Ironclad Security's salary bands for the Project Horizon team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+684,You can reach me at +1-555-0137 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1597,Nikhil Chopra's national ID number is 2587 4805 5871.,PII,CONFIDENTIAL,PII_06
+1652,We need Riya Nair's ID 2565 7408 4183 for the KYC process.,PII,CONFIDENTIAL,PII_10
+1054,This is the temporary key for the demo: ghp_QrdvEGhSQHsMX6Y6e3Ce3r7grRE2,API_KEY,CONFIDENTIAL,API_KEY_12
+768,I gave the recruiter my number +91-768716573 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+16,What are the main factors that influence the immune system?,SAFE,SAFE,SAFE_02
+646,The vendor asked us to send the PO to nikhil.pillai730@example.net.,EMAIL,CONFIDENTIAL,EMAIL_13
+1519,My backup card is 4242 6042 8028 3796 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1646,We need Aarav Verma's ID 1328 9627 2679 for the KYC process.,PII,CONFIDENTIAL,PII_10
+1175,Can you log in with the temporary password Dragon&383 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1524,"Meera Singh's date of birth is 16-05-1984, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1250,Here's the password for the guest account: Shadow!530,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1013,I found this key in the old config file: api_key_zJAtLBiOKQmiQ34A4VOJjeH,API_KEY,CONFIDENTIAL,API_KEY_09
+1554,"Priya Pillai lives at 42 Lotus Enclave, Sector 12, born on 13-12-1988.",PII,CONFIDENTIAL,PII_03
+1631,"Patient Priya Iyer, DOB 15-06-1977, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+774,I gave the recruiter my number +1-555-0122 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+864,My roommate's number is +91-727318510 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+202,"We had a great turnout at the payment demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+1255,The router admin password is Shadow@743.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+747,"For appointment confirmations, text +1-555-0127.",PHONE,CONFIDENTIAL,PHONE_05
+585,"I lost access to meera.agarwal307@brightpath-test.org, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+1614,"Please update Rohan Kapoor's record: DOB 06-09-1991, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1117,"I reset my password to Winter!467, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+1831,Internal use only: competitor analysis for Harborline Shipping's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+448,"CREATE TABLE requests (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+861,Add +91-670394554 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+1733,Internal memo: Harborline Shipping's Q3 pricing strategy for Project Phoenix is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+994,Can you test the endpoint with key api_key_SLy3W6UGBk0hopUUnyf6DdVG?,API_KEY,CONFIDENTIAL,API_KEY_08
+1260,The router admin password is Dragon&481.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+875,My roommate's number is +1-555-0113 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+1476,I need to update my card on file to 4242 8506 0800 3263.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+746,"For appointment confirmations, text +91-875266178.",PHONE,CONFIDENTIAL,PHONE_05
+443,"CREATE TABLE invoices (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1415,Save card 4012 0029 9157 8638 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1852,"Project Falcon: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+238,"Reference ticket number is TCK-54942, raised yesterday.",SAFE,SAFE,SAFE_22
+1111,"My login is admin / Shadow#652, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+1029,The deployment script needs ACCESS_KEY=AKIAbDvCkVLhgYXuOXHyzMH8xvYKWAW.,API_KEY,CONFIDENTIAL,API_KEY_10
+618,Our HR contact email is karan.singh671@example.com for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+1404,I used card 5105 3817 1596 1790 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+205,"We had a great turnout at the session demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+1414,Save card 4012 4815 9123 8860 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1530,"Meera Reddy's date of birth is 11-07-1973, needed for the background check.",PII,CONFIDENTIAL,PII_01
+723,"My new number is +91-670362235, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1830,Internal use only: competitor analysis for Acme Manufacturing's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+1058,Replace the placeholder with the real key ghp_T3iIty0BfdNKn6rbHBPfF before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+1722,Please cross-check Pooja Joshi's ID 2928 6594 8639 against the database.,PII,CONFIDENTIAL,PII_15
+1457,Please don't store card 5105 9291 6885 1692 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1275,Please change the password from Falcon#211 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+1667,Isha Kapoor (DOB 23-10-1996) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+893,Use this key for the staging environment: ghp_8KXSQbD7WWJSKkMM0jQb6,API_KEY,CONFIDENTIAL,API_KEY_01
+1271,Please change the password from Tr0ub4dor@508 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+395,"public class VendorQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+64,Why is inflation important in real life?,SAFE,SAFE,SAFE_06
+1691,Sameer Agarwal's tax ID is 7274 6409 5542.,PII,CONFIDENTIAL,PII_13
+1802,Please keep Project Phoenix launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+1542,Please verify Rohan Reddy's ID number 3246 9535 4777 before processing.,PII,CONFIDENTIAL,PII_02
+1575,The applicant Divya Malhotra submitted ID 3344 1404 6350 with the form.,PII,CONFIDENTIAL,PII_04
+252,Flight 6E-342 departs from gate B26 at end of day.,SAFE,SAFE,SAFE_23
+1046,This is the temporary key for the demo: AKIARIB5cg0LWaEalfO2zYVQmN,API_KEY,CONFIDENTIAL,API_KEY_12
+1298,The vendor portal login uses password Winter!875.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+1453,Please don't store card 4111 9816 6447 9044 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+975,Our third-party integration uses the token sk-live-H6sU4vzOFjnZmlX0059CIsegSE.,API_KEY,CONFIDENTIAL,API_KEY_07
+786,Emergency contact number: +91-990092958.,PHONE,CONFIDENTIAL,PHONE_08
+237,"Reference ticket number is TCK-37607, raised yesterday.",SAFE,SAFE,SAFE_22
+1824,Internal use only: competitor analysis for Northwind Analytics's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+998,Can you test the endpoint with key ghp_lbdHlgqSTojEvtX9CXu07dWeDl0?,API_KEY,CONFIDENTIAL,API_KEY_08
+1296,The vendor portal login uses password Rocket@326.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+512,"I updated my contact email to riya.bose299@example.com, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+244,Flight UK-889 departs from gate B21 at 10 AM.,SAFE,SAFE,SAFE_23
+573,Sign up for the newsletter using divya.patel779@brightpath-test.org.,EMAIL,CONFIDENTIAL,EMAIL_08
+583,Sign up for the newsletter using aarav.rao923@example.net.,EMAIL,CONFIDENTIAL,EMAIL_08
+867,My roommate's number is +1-555-0151 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+902,Use this key for the staging environment: api_key_x3B4xe72i1h9yh8ZU8CSAxoCjl,API_KEY,CONFIDENTIAL,API_KEY_01
+1240,Here's the password for the guest account: Summer#802,PASSWORD,CONFIDENTIAL,PASSWORD_11
+623,Our HR contact email is meera.verma408@example.net for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+572,Sign up for the newsletter using simran.khan765@example.com.,EMAIL,CONFIDENTIAL,EMAIL_08
+1513,My backup card is 4242 6893 6395 1245 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+65,Why is evolution important in real life?,SAFE,SAFE,SAFE_06
+1095,Here's my personal access token in case you need it: xoxb-hnpvwc2qjQFPR5BC0ggLW6Z,API_KEY,CONFIDENTIAL,API_KEY_15
+394,"public class SupplierQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+386,UPDATE subscriptions SET status = 'closed' WHERE subscription_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+1866,Harborline Shipping leadership circulated this confidential note about restructuring.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_13
+805,Please share +1-555-0135 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1267,The router admin password is Shadow&712.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+1048,This is the temporary key for the demo: sk-test-PcNrAuXVcT5kWEh3SKumPu,API_KEY,CONFIDENTIAL,API_KEY_12
+596,"I lost access to isha.malhotra808@northwind-test.com, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+246,Flight SG-674 departs from gate A4 at right after lunch.,SAFE,SAFE,SAFE_23
+1282,My email password used to be Winter!203 before I got locked out.,PASSWORD,CONFIDENTIAL,PASSWORD_14
+591,"I lost access to arjun.chopra9@acmecorp-test.io, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+336,"class InventoryManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+1651,We need Sameer Singh's ID 1330 1241 9875 for the KYC process.,PII,CONFIDENTIAL,PII_10
+376,"def is_valid_auction(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+1649,We need Isha Chopra's ID 3025 7190 7565 for the KYC process.,PII,CONFIDENTIAL,PII_10
+980,Our third-party integration uses the token ghp_X3a2BoFrjjLYOzuhPDKOzphKiF3.,API_KEY,CONFIDENTIAL,API_KEY_07
+33,"I'm studying cellular respiration for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+1822,Internal use only: competitor analysis for Fernwood Health's upcoming product.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_09
+519,Can you CC riya.agarwal944@example.net on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1016,The deployment script needs ACCESS_KEY=AKIAQ13AWLZSy6JHNRcgC22pH8cyV7l.,API_KEY,CONFIDENTIAL,API_KEY_10
+1591,Pooja Khan's national ID number is 5806 2950 6518.,PII,CONFIDENTIAL,PII_06
+946,"The webhook secret is AKIAlcBqZIjRfPYzUodyG7Q6Josy0, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+873,My roommate's number is +91-732978158 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+143,Summarize inflation in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+427,"try:
+    result = process_invoice(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1108,"My login is admin / Shadow&220, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+457,"while queue:
+    vendor = queue.popleft()
+    visited.add(vendor)
+    queue.extend(n for n in graph[vendor] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+1555,"Pooja Rao lives at 42 Lotus Enclave, Sector 12, born on 14-10-2003.",PII,CONFIDENTIAL,PII_03
+1728,Please cross-check Simran Iyer's ID 5570 3300 6169 against the database.,PII,CONFIDENTIAL,PII_15
+59,Why is the immune system important in real life?,SAFE,SAFE,SAFE_06
+1625,"Patient Nikhil Khan, DOB 21-06-2000, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+459,"while queue:
+    package = queue.popleft()
+    visited.add(package)
+    queue.extend(n for n in graph[package] if n not in visited)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_14
+1659,We need Pooja Patel's ID 8409 4671 1407 for the KYC process.,PII,CONFIDENTIAL,PII_10
+1837,The Project Compass security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+1699,Sameer Gupta's tax ID is 4504 3721 5550.,PII,CONFIDENTIAL,PII_13
+1103,"My login is admin / Winter#843, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+1553,"Riya Singh lives at 42 Lotus Enclave, Sector 12, born on 28-07-1973.",PII,CONFIDENTIAL,PII_03
+1174,Can you log in with the temporary password Shadow@86 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+1886,Internal only — Acme Manufacturing's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+876,Use +1-555-0192 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+433,"try:
+    result = process_cart(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1051,This is the temporary key for the demo: sk-live-9TFAyYRgEfUQznwo9aPk,API_KEY,CONFIDENTIAL,API_KEY_12
+209,"We had a great turnout at the report demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+148,Summarize climate change in two sentences for a quick revision.,SAFE,SAFE,SAFE_13
+781,Emergency contact number: +91-924923247.,PHONE,CONFIDENTIAL,PHONE_08
+1739,Internal memo: Silverline Media's Q3 pricing strategy for Project Horizon is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+160,What's a fun fact about plate tectonics that most people don't know?,SAFE,SAFE,SAFE_14
+141,What questions should I ask my professor about the water cycle?,SAFE,SAFE,SAFE_12
+716,"My new number is +91-889379016, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1839,The Project Zephyr security incident report is classified internal-confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_10
+1473,I need to update my card on file to 5555 2848 9060 0875.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+880,Use +1-555-0190 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+631,Please confirm your registration by replying from aarav.chopra880@example.org.,EMAIL,CONFIDENTIAL,EMAIL_12
+916,Here's the API key you asked for: AKIAKH51zc8RYK4gpPkLINO7uXggnUI,API_KEY,CONFIDENTIAL,API_KEY_02
+520,Can you CC kabir.patel480@brightpath-test.org on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+792,Emergency contact number: +91-662405812.,PHONE,CONFIDENTIAL,PHONE_08
+827,The technician's contact number is +91-958762794.,PHONE,CONFIDENTIAL,PHONE_11
+378,"def is_valid_product(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+1557,"Karan Sharma lives at 42 Lotus Enclave, Sector 12, born on 09-11-1987.",PII,CONFIDENTIAL,PII_03
+392,"public class VoucherQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+409,"import React, { useState } from 'react';
+function ReportCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+881,Use +91-874819756 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+464,DELETE FROM vouchers WHERE created_at < NOW() - INTERVAL '30 days';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_15
+187,Can you review the pull request before the demo on Monday?,SAFE,SAFE,SAFE_18
+744,"For appointment confirmations, text +91-812446861.",PHONE,CONFIDENTIAL,PHONE_05
+1559,"Aditya Agarwal lives at 42 Lotus Enclave, Sector 12, born on 13-01-1987.",PII,CONFIDENTIAL,PII_03
+166,How would you teach the stock market to a ten-year-old?,SAFE,SAFE,SAFE_15
+1479,Card 4012 6720 9002 8113 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+750,"For appointment confirmations, text +91-698842638.",PHONE,CONFIDENTIAL,PHONE_05
+1620,"Patient Tanya Iyer, DOB 24-08-1988, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+1820,Orion Retail Group's salary bands for the Project Cascade team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+1807,Please keep Project Compass launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+770,I gave the recruiter my number +91-813579612 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+956,"The webhook secret is AKIAmVJjWWiAAADaHT63UGbaTo2t, keep it out of version control.",API_KEY,CONFIDENTIAL,API_KEY_05
+797,Please share +1-555-0194 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1599,Nikhil Dutta's national ID number is 7990 5673 6288.,PII,CONFIDENTIAL,PII_06
+900,Use this key for the staging environment: ghp_MnijULzIDHPnpU2fBReIdHFJj,API_KEY,CONFIDENTIAL,API_KEY_01
+437,"try:
+    result = process_warehouse(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1538,Please verify Tanya Joshi's ID number 4609 8266 5959 before processing.,PII,CONFIDENTIAL,PII_02
+1474,I need to update my card on file to 4242 3307 4029 4690.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+525,Can you CC rohan.khan985@brightpath-test.org on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1385,The refund should go back to card 5105 7615 2963 7647.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+179,Quarterly all-hands got moved to 2 PM on Thursday.,SAFE,SAFE,SAFE_17
+27,"I'm studying tectonic plates for my exam, can you summarize the key points?",SAFE,SAFE,SAFE_03
+1563,The applicant Kabir Sharma submitted ID 8642 1606 6877 with the form.,PII,CONFIDENTIAL,PII_04
+1222,"I forgot my password, the old one was Falcon#546.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+169,How would you teach climate change to a ten-year-old?,SAFE,SAFE,SAFE_15
+177,Quarterly all-hands got moved to end of day on Wednesday.,SAFE,SAFE,SAFE_17
+1543,Please verify Simran Pillai's ID number 4453 3011 7101 before processing.,PII,CONFIDENTIAL,PII_02
+1220,"I forgot my password, the old one was Shadow@371.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+745,"For appointment confirmations, text +1-555-0133.",PHONE,CONFIDENTIAL,PHONE_05
+434,"try:
+    result = process_account(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1234,Set the new password to Tr0ub4dor#842 for this account.,PASSWORD,CONFIDENTIAL,PASSWORD_10
+1611,"Please update Priya Patel's record: DOB 15-07-2001, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+535,"My personal email is aditya.chopra332@example.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+692,You can reach me at +1-555-0168 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+633,Please confirm your registration by replying from priya.sharma135@example.com.,EMAIL,CONFIDENTIAL,EMAIL_12
+763,"Our office landline is +91-743554863, extension 204.",PHONE,CONFIDENTIAL,PHONE_06
+696,You can reach me at +1-555-0112 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1410,Save card 4012 2762 8503 6301 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+1567,The applicant Tanya Nair submitted ID 4726 3858 3406 with the form.,PII,CONFIDENTIAL,PII_04
+1535,Please verify Isha Kapoor's ID number 6728 5001 5790 before processing.,PII,CONFIDENTIAL,PII_02
+1114,"I reset my password to Dragon&518, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+292,Here's the plan for tomorrow's report sync.,SAFE,SAFE,SAFE_28
+67,Why is urbanization important in real life?,SAFE,SAFE,SAFE_06
+1693,Ananya Reddy's tax ID is 2496 3400 3348.,PII,CONFIDENTIAL,PII_13
+801,Please share +1-555-0197 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1716,Please cross-check Rahul Reddy's ID 1273 6450 6185 against the database.,PII,CONFIDENTIAL,PII_15
+351,"for i in range(len(shifts) - 1):
+    if shifts[i] > shifts[i + 1]:
+        shifts[i], shifts[i+1] = shifts[i+1], shifts[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+1306,The vendor portal login uses password Dragon@330.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+486,Please send the invoice to aditya.joshi720@northwind-test.com by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+234,"Reference ticket number is TCK-45697, raised yesterday.",SAFE,SAFE,SAFE_22
+235,"Reference ticket number is TCK-46930, raised yesterday.",SAFE,SAFE,SAFE_22
+567,"The client's email address is aditya.shah710@northwind-test.com, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+289,Here's the plan for tomorrow's cart sync.,SAFE,SAFE,SAFE_28
+1450,Please don't store card 4012 4513 3995 0803 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+114,What's the history behind our understanding of natural selection?,SAFE,SAFE,SAFE_10
+382,UPDATE invoices SET status = 'closed' WHERE invoice_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+1483,Card 4012 3434 3039 1112 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+1467,I need to update my card on file to 4111 5737 9484 7867.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+1428,My corporate card number is 4012 0581 1776 2431.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+1536,Please verify Karan Shah's ID number 7517 8843 3005 before processing.,PII,CONFIDENTIAL,PII_02
+139,What questions should I ask my professor about compound interest?,SAFE,SAFE,SAFE_12
+115,What's the history behind our understanding of GDP growth?,SAFE,SAFE,SAFE_10
+691,You can reach me at +1-555-0115 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+1734,Internal memo: Meadowbrook Insurance's Q3 pricing strategy for Project Phoenix is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+1618,"Patient Aarav Khan, DOB 05-10-1994, was admitted this morning.",PII,CONFIDENTIAL,PII_08
+1694,Neha Bose's tax ID is 1004 6297 2274.,PII,CONFIDENTIAL,PII_13
+117,What's the history behind our understanding of the water cycle?,SAFE,SAFE,SAFE_10
+674,Use aditya.iyer379@example.net as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+738,"For appointment confirmations, text +1-555-0154.",PHONE,CONFIDENTIAL,PHONE_05
+505,"I updated my contact email to arjun.rao931@northwind-test.com, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+377,"def is_valid_appointment(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+1322,"My card number is 4012 5620 1038 5984, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+1520,"Isha Khan's date of birth is 16-02-1972, needed for the background check.",PII,CONFIDENTIAL,PII_01
+1778,This is an internal-only summary of Cobalt Logistics's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+771,I gave the recruiter my number +1-555-0160 for a follow-up call.,PHONE,CONFIDENTIAL,PHONE_07
+1215,"I forgot my password, the old one was Purple!698.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+883,Use +1-555-0168 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+1069,Replace the placeholder with the real key sk-test-MfeUVXmPEqv1H7bA4xtxCcI1 before deploying.,API_KEY,CONFIDENTIAL,API_KEY_13
+206,"We had a great turnout at the auction demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+1088,Here's my personal access token in case you need it: xoxb-fpoVybmyyO7jsXT54LwfwmByqL,API_KEY,CONFIDENTIAL,API_KEY_15
+341,"class ReviewManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+1856,"Project Vertex: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+1301,The vendor portal login uses password Dragon#872.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+526,Can you CC nikhil.agarwal974@example.com on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1311,"My card number is 4242 4354 6444 8339, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+1793,Confidential: Ironclad Security board meeting notes on the Project Zephyr merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+1256,The router admin password is Dragon@249.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+344,"class ProductManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+531,"My personal email is divya.kapoor329@brightpath-test.org, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+191,I think the ticket migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+127,Can you compare evolution to something from everyday life?,SAFE,SAFE,SAFE_11
+1391,The refund should go back to card 4111 3688 8242 0630.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+140,What questions should I ask my professor about photosynthesis?,SAFE,SAFE,SAFE_12
+200,I think the subscription migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+1551,"Pooja Joshi lives at 42 Lotus Enclave, Sector 12, born on 01-10-1991.",PII,CONFIDENTIAL,PII_03
+1177,Can you log in with the temporary password Shadow@43 I sent earlier?,PASSWORD,CONFIDENTIAL,PASSWORD_06
+183,Quarterly all-hands got moved to 10 AM on Wednesday.,SAFE,SAFE,SAFE_17
+713,"My new number is +91-985764804, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+1245,Here's the password for the guest account: Falcon@99,PASSWORD,CONFIDENTIAL,PASSWORD_11
+1794,Confidential: Orion Retail Group board meeting notes on the Project Cascade merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+562,"The client's email address is karan.dutta989@acmecorp-test.io, use it for all correspondence.",EMAIL,CONFIDENTIAL,EMAIL_07
+1120,"I reset my password to Falcon!113, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+324,"SELECT transactionid, COUNT(*) FROM transactions GROUP BY transactionid;",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_02
+1146,Use username 'support' and password Tr0ub4dor@124 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+1382,The refund should go back to card 4111 3097 1720 9293.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+1783,Confidential: Lumen Financial board meeting notes on the Project Falcon merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+509,"I updated my contact email to rahul.gupta161@example.org, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+711,"My new number is +91-633776150, update your contacts.",PHONE,CONFIDENTIAL,PHONE_03
+396,"public class DriverQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+908,Here's the API key you asked for: xoxb-l397G0eYdaiNejnCdN54OaGzbSH,API_KEY,CONFIDENTIAL,API_KEY_02
+1304,The vendor portal login uses password Dragon!521.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+301,Can you proofread this comment update before I send it out?,SAFE,SAFE,SAFE_30
+201,I think the appointment migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+108,What's the history behind our understanding of the Krebs cycle?,SAFE,SAFE,SAFE_10
+1506,My backup card is 4012 5624 2153 2372 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1265,The router admin password is Winter&656.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+1123,"I reset my password to Summer&381, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+981,Our third-party integration uses the token sk-test-k5Gz8N2TY6nLDDnziKVM.,API_KEY,CONFIDENTIAL,API_KEY_07
+1110,"My login is admin / Falcon@893, please don't share it.",PASSWORD,CONFIDENTIAL,PASSWORD_01
+198,I think the driver migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+193,I think the batch migration script has an off-by-one error somewhere.,SAFE,SAFE,SAFE_19
+506,"I updated my contact email to simran.agarwal440@example.net, please use that going forward.",EMAIL,CONFIDENTIAL,EMAIL_03
+1257,The router admin password is Tr0ub4dor&62.,PASSWORD,CONFIDENTIAL,PASSWORD_12
+1797,Please keep Project Solstice launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+794,Please share +1-555-0157 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+1518,My backup card is 4242 0589 5306 1494 in case the first one fails.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_15
+1688,Riya Mehta's tax ID is 5173 9864 4319.,PII,CONFIDENTIAL,PII_13
+1719,Please cross-check Sameer Nair's ID 5368 2375 3827 against the database.,PII,CONFIDENTIAL,PII_15
+436,"try:
+    result = process_report(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+1776,This is an internal-only summary of Ironclad Security's restructuring plan for next quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_05
+527,Can you CC rahul.agarwal42@example.org on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1320,"My card number is 4012 2600 5184 1151, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+785,Emergency contact number: +1-555-0124.,PHONE,CONFIDENTIAL,PHONE_08
+534,"My personal email is pooja.verma466@example.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+1462,Please don't store card 4242 2108 9217 4462 after this transaction.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_11
+1858,"Project Horizon: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+1044,This is the temporary key for the demo: AKIAnOG61HToeTEb4MpOaN4Yg,API_KEY,CONFIDENTIAL,API_KEY_12
+74,Can you quiz me on plate tectonics?,SAFE,SAFE,SAFE_07
+233,"Reference ticket number is TCK-30374, raised yesterday.",SAFE,SAFE,SAFE_22
+473,Please send the invoice to rahul.rao250@northwind-test.com by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+118,What's the history behind our understanding of tectonic plates?,SAFE,SAFE,SAFE_10
+1787,Confidential: Acme Manufacturing board meeting notes on the Project Beacon merger.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_06
+240,"Reference ticket number is TCK-93130, raised yesterday.",SAFE,SAFE,SAFE_22
+164,How would you teach renewable energy to a ten-year-old?,SAFE,SAFE,SAFE_15
+680,Use priya.joshi441@example.com as the recovery address for this account.,EMAIL,CONFIDENTIAL,EMAIL_15
+1545,Please verify Priya Sharma's ID number 9174 1553 5428 before processing.,PII,CONFIDENTIAL,PII_02
+476,Please send the invoice to neha.bose218@example.net by Friday.,EMAIL,CONFIDENTIAL,EMAIL_01
+1558,"Rohan Khan lives at 42 Lotus Enclave, Sector 12, born on 25-09-1988.",PII,CONFIDENTIAL,PII_03
+1544,Please verify Karan Verma's ID number 4851 8213 8434 before processing.,PII,CONFIDENTIAL,PII_02
+280,I'm nervous about presenting our cart roadmap tomorrow.,SAFE,SAFE,SAFE_27
+906,Here's the API key you asked for: xoxb-D1u7a67h9DpLm4IWxHwqFEg,API_KEY,CONFIDENTIAL,API_KEY_02
+308,Can you proofread this order update before I send it out?,SAFE,SAFE,SAFE_30
+577,Sign up for the newsletter using divya.nair251@acmecorp-test.io.,EMAIL,CONFIDENTIAL,EMAIL_08
+804,Please share +91-671428713 with the vendor for coordination.,PHONE,CONFIDENTIAL,PHONE_09
+353,"for i in range(len(bookings) - 1):
+    if bookings[i] > bookings[i + 1]:
+        bookings[i], bookings[i+1] = bookings[i+1], bookings[i]",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_04
+1152,Use username 'support' and password Rocket!448 to access the panel.,PASSWORD,CONFIDENTIAL,PASSWORD_04
+1399,I used card 4012 6447 1761 8618 for the online order.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_07
+1279,Please change the password from Dragon!298 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+936,"I accidentally committed the key api_key_8ydsYk70IIfgXhdWnmyQ6fK to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+1297,The vendor portal login uses password Winter@944.,PASSWORD,CONFIDENTIAL,PASSWORD_15
+687,You can reach me at +1-555-0165 after 6 PM.,PHONE,CONFIDENTIAL,PHONE_01
+626,Our HR contact email is riya.sharma52@example.net for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+1885,Internal only — Cobalt Logistics's upcoming layoffs are not to be discussed outside HR.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_15
+522,Can you CC sameer.pillai506@northwind-test.com on this thread?,EMAIL,CONFIDENTIAL,EMAIL_04
+1122,"I reset my password to Tr0ub4dor#536, can you confirm it works?",PASSWORD,CONFIDENTIAL,PASSWORD_02
+1610,"Please update Sameer Nair's record: DOB 27-08-1988, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1420,Save card 4242 3619 9861 5567 for future purchases.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_08
+882,Use +1-555-0197 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+342,"class BatchManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+1549,"Vikram Mehta lives at 42 Lotus Enclave, Sector 12, born on 06-11-1997.",PII,CONFIDENTIAL,PII_03
+1425,My corporate card number is 4012 7209 0599 0389.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_09
+428,"try:
+    result = process_request(data)
+except ValueError:
+    result = None",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_11
+445,"CREATE TABLE drivers (id INTEGER PRIMARY KEY, name TEXT, amount REAL);",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_12
+1486,Card 4242 7201 9678 6167 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+236,"Reference ticket number is TCK-89276, raised yesterday.",SAFE,SAFE,SAFE_22
+1321,"My card number is 5555 7392 8386 1533, expiry 09/28.",PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_01
+18,What are the main factors that influence climate change?,SAFE,SAFE,SAFE_02
+286,Here's the plan for tomorrow's refund sync.,SAFE,SAFE,SAFE_28
+1571,The applicant Aarav Joshi submitted ID 9854 1732 4845 with the form.,PII,CONFIDENTIAL,PII_04
+540,"My personal email is vikram.chopra563@example.org, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+116,What's the history behind our understanding of black holes?,SAFE,SAFE,SAFE_10
+537,"My personal email is pooja.rao424@example.com, feel free to email me there.",EMAIL,CONFIDENTIAL,EMAIL_05
+871,My roommate's number is +91-826800072 in case you can't reach me.,PHONE,CONFIDENTIAL,PHONE_14
+1027,The deployment script needs ACCESS_KEY=sk-live-FmvtiRrpeMvBiDPgdAlKKZRMtYSP.,API_KEY,CONFIDENTIAL,API_KEY_10
+402,"import React, { useState } from 'react';
+function InvoiceCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+276,I'm nervous about presenting our shift roadmap tomorrow.,SAFE,SAFE,SAFE_27
+1340,I entered card 4012 9115 7254 4118 but the payment failed.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_03
+989,Can you test the endpoint with key sk-test-tnJlU5lTopqoZZwWhe7Ea170xt3?,API_KEY,CONFIDENTIAL,API_KEY_08
+1664,Karan Mehta (DOB 20-08-2003) has been added to the insurance policy.,PII,CONFIDENTIAL,PII_11
+203,"We had a great turnout at the order demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+1482,Card 4111 7281 0642 9040 was declined at checkout.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_13
+1388,The refund should go back to card 4111 9457 4598 6467.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+334,"class DriverManager:
+    def __init__(self):
+        self.items = []
+    def add(self, item):
+        self.items.append(item)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_03
+937,"I accidentally committed the key sk-live-9mOYf0Yh6d5ASExAv4rB to the repo, please rotate it.",API_KEY,CONFIDENTIAL,API_KEY_04
+373,"def is_valid_payment(x):
+    return x is not None and x.status == 'active'",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_06
+622,Our HR contact email is priya.joshi558@brightpath-test.org for any leave requests.,EMAIL,CONFIDENTIAL,EMAIL_11
+1615,"Please update Rahul Rao's record: DOB 21-12-2002, address on file unchanged.",PII,CONFIDENTIAL,PII_07
+1801,Please keep Project Zephyr launch details internal until the press release.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_07
+1857,"Project Aurora: internal strategy doc, not for client distribution.",CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_12
+742,"For appointment confirmations, text +91-827152188.",PHONE,CONFIDENTIAL,PHONE_05
+1736,Internal memo: Ironclad Security's Q3 pricing strategy for Project Cascade is not to be shared externally.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_01
+390,"public class ShipmentQueue {
+  private int[] data;
+  private int top = -1;
+  public void push(int x) { data[++top] = x; }
+}",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_08
+1477,I need to update my card on file to 5555 2114 1878 9443.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_12
+594,"I lost access to ananya.reddy636@example.net, can you help reset it?",EMAIL,CONFIDENTIAL,EMAIL_09
+1505,Use card 4012 8586 8646 1863 for the annual software license.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_14
+879,Use +1-555-0191 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+208,"We had a great turnout at the shift demo yesterday, thanks everyone.",SAFE,SAFE,SAFE_20
+1213,"I forgot my password, the old one was Winter#903.",PASSWORD,CONFIDENTIAL,PASSWORD_09
+383,UPDATE licenses SET status = 'closed' WHERE license_id = 42 AND status = 'open';,SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_07
+1272,Please change the password from Tr0ub4dor&655 to something stronger.,PASSWORD,CONFIDENTIAL,PASSWORD_13
+857,Add +1-555-0160 as the alternate contact number.,PHONE,CONFIDENTIAL,PHONE_13
+401,"import React, { useState } from 'react';
+function DriverCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09
+910,Here's the API key you asked for: api_key_fxIdakEAWJ1fGcn13Dce,API_KEY,CONFIDENTIAL,API_KEY_02
+1808,Silverline Media's salary bands for the Project Meridian team are strictly confidential.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_08
+886,Use +1-555-0136 for OTP verification.,PHONE,CONFIDENTIAL,PHONE_15
+1383,The refund should go back to card 4111 1738 4578 5685.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_06
+407,"import React, { useState } from 'react';
+function ReviewCounter() { const [count, setCount] = useState(0); return count; }",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_09

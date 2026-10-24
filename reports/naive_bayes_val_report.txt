@@ -1,0 +1,17 @@
+naive_bayes  |  macro-F1=0.997  |  train_time=0.63s  |  4.78 ms/prediction
+
+              precision    recall  f1-score   support
+
+     API_KEY      1.000     1.000     1.000        28
+CONFIDENTIAL      1.000     1.000     1.000        17
+       EMAIL      0.966     1.000     0.982        28
+    PASSWORD      1.000     1.000     1.000        28
+PAYMENT_CARD      1.000     1.000     1.000        28
+       PHONE      1.000     1.000     1.000        28
+         PII      1.000     1.000     1.000        28
+        SAFE      1.000     0.976     0.988        42
+ SOURCE_CODE      1.000     1.000     1.000        12
+
+    accuracy                          0.996       239
+   macro avg      0.996     0.997     0.997       239
+weighted avg      0.996     0.996     0.996       239

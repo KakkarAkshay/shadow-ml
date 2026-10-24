@@ -1,0 +1,254 @@
+id,text,label,coarse_label,template_id
+1846,Do not distribute — Ridgeview Software's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+294,Let's grab coffee and catch up sometime this Friday.,SAFE,SAFE,SAFE_29
+318,"def calculate_ticket_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+1191,"Our shared drive password is Tr0ub4dor#936, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+663,I'll share the document link with tanya.khan868@example.com shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+319,"def calculate_comment_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+316,"def calculate_license_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+317,"def calculate_booking_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+91,What are common misconceptions about cellular respiration?,SAFE,SAFE,SAFE_08
+929,Set the environment variable API_KEY=api_key_V7VbeqcdWFMFzRfHMrtFmY before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+57,What's a good analogy to understand osmosis?,SAFE,SAFE,SAFE_05
+658,I'll share the document link with nikhil.pillai576@example.net shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+1755,Do not forward — Fernwood Health's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+1585,"HR record: Kabir Singh, DOB 08-07-1978, employee ID 4764 3052 9808.",PII,CONFIDENTIAL,PII_05
+606,Add arjun.sharma271@acmecorp-test.io to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+699,Please call the helpdesk at +91-668614462 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1355,Here's my card for the reservation: 4111 9880 8489 0155,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+965,Paste this into your .env file: SECRET_KEY=xoxb-SwCgOawNXHxg3EYUzpmh0nZluUc,API_KEY,CONFIDENTIAL,API_KEY_06
+931,Set the environment variable API_KEY=sk-test-Th3uAGq8MEFd1kjV3PhTa1ac before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+1706,"The candidate's full name is Aarav Agarwal, born 10-06-1976.",PII,CONFIDENTIAL,PII_14
+99,Suggest three resources to learn more about fermentation.,SAFE,SAFE,SAFE_09
+96,Suggest three resources to learn more about machine learning basics.,SAFE,SAFE,SAFE_09
+1192,"Our shared drive password is Tr0ub4dor&624, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+1354,Here's my card for the reservation: 4242 9434 3898 9635,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+962,Paste this into your .env file: SECRET_KEY=ghp_12T3DE3BdOa1GUSn72GQ,API_KEY,CONFIDENTIAL,API_KEY_06
+58,What's a good analogy to understand the water cycle?,SAFE,SAFE,SAFE_05
+968,Paste this into your .env file: SECRET_KEY=api_key_SVIK6SP3H2AagxddqW8QjdWmH,API_KEY,CONFIDENTIAL,API_KEY_06
+923,Set the environment variable API_KEY=ghp_rHuRrq19Qf7W491h1pSZVPEJqzCN before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+1707,"The candidate's full name is Meera Chopra, born 17-01-1987.",PII,CONFIDENTIAL,PII_14
+657,I'll share the document link with meera.nair570@example.com shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+1196,"Our shared drive password is Summer!552, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+1448,The client paid with card 5105 6399 7731 4184 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+1189,"Our shared drive password is Rocket&350, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+662,I'll share the document link with nikhil.dutta218@example.org shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+927,Set the environment variable API_KEY=sk-test-eILkvnU5MBn3ihTvAXpNpL before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+48,What's a good analogy to understand the solar system?,SAFE,SAFE,SAFE_05
+1761,Do not forward — Lumen Financial's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+297,Let's grab coffee and catch up sometime this Thursday.,SAFE,SAFE,SAFE_29
+1588,"HR record: Neha Patel, DOB 24-02-1978, employee ID 7858 5315 8698.",PII,CONFIDENTIAL,PII_05
+1845,Do not distribute — Ironclad Security's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+1158,I wrote the wifi password Dragon!315 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+611,Add aditya.shah227@brightpath-test.org to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+1188,"Our shared drive password is Shadow#280, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+1586,"HR record: Riya Chopra, DOB 04-02-1996, employee ID 5700 6596 6142.",PII,CONFIDENTIAL,PII_05
+922,Set the environment variable API_KEY=xoxb-9gZUs9BvYB9WoYKvSNkimmd before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+1850,Do not distribute — Silverline Media's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+930,Set the environment variable API_KEY=xoxb-yNZQeRT0dfACLtTThRRk7GWSk before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+296,Let's grab coffee and catch up sometime this Wednesday.,SAFE,SAFE,SAFE_29
+706,Please call the helpdesk at +1-555-0154 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+660,I'll share the document link with divya.verma992@example.net shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+102,Suggest three resources to learn more about supply and demand.,SAFE,SAFE,SAFE_09
+1159,I wrote the wifi password Dragon@61 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+920,Set the environment variable API_KEY=sk-live-tohxiyKJAEH45kkrl0M17E before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+838,Message me at +1-555-0145 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+1849,Do not distribute — Fernwood Health's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+655,I'll share the document link with tanya.gupta94@example.com shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+1157,I wrote the wifi password Purple&787 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+1352,Here's my card for the reservation: 5555 4916 0010 0241,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+1364,Here's my card for the reservation: 4012 5623 5419 8449,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+700,Please call the helpdesk at +91-768475513 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1577,"HR record: Neha Joshi, DOB 19-01-1976, employee ID 1730 5765 3458.",PII,CONFIDENTIAL,PII_05
+1195,"Our shared drive password is Falcon@552, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+449,"def fibonacci(n, memo=None):
+    if memo is None: memo = {}
+    if n in memo: return memo[n]
+    return n",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_13
+315,"def calculate_shift_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+701,Please call the helpdesk at +91-663118906 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1167,I wrote the wifi password Summer@276 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+1713,"The candidate's full name is Riya Nair, born 23-12-1981.",PII,CONFIDENTIAL,PII_14
+1186,"Our shared drive password is Falcon#216, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+961,Paste this into your .env file: SECRET_KEY=ghp_xvhyCZQDA2kiT80g4DJBL,API_KEY,CONFIDENTIAL,API_KEY_06
+1711,"The candidate's full name is Riya Rao, born 16-03-2000.",PII,CONFIDENTIAL,PII_14
+609,Add meera.patel692@example.org to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+313,"def calculate_claim_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+1847,Do not distribute — Brightpath Systems's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+1581,"HR record: Sameer Verma, DOB 15-06-1987, employee ID 8738 9592 9525.",PII,CONFIDENTIAL,PII_05
+103,Suggest three resources to learn more about GDP growth.,SAFE,SAFE,SAFE_09
+1449,The client paid with card 4111 7627 9986 6507 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+605,Add arjun.pillai375@example.com to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+50,What's a good analogy to understand climate change?,SAFE,SAFE,SAFE_05
+1447,The client paid with card 5555 4579 4958 5814 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+1760,Do not forward — Acme Manufacturing's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+1589,"HR record: Isha Singh, DOB 05-09-2003, employee ID 1392 3735 2196.",PII,CONFIDENTIAL,PII_05
+1844,Do not distribute — Acme Manufacturing's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+106,Suggest three resources to learn more about natural selection.,SAFE,SAFE,SAFE_09
+1710,"The candidate's full name is Nikhil Sharma, born 28-12-2000.",PII,CONFIDENTIAL,PII_14
+1714,"The candidate's full name is Karan Gupta, born 14-02-1973.",PII,CONFIDENTIAL,PII_14
+1578,"HR record: Riya Reddy, DOB 26-10-1992, employee ID 6129 9368 9326.",PII,CONFIDENTIAL,PII_05
+704,Please call the helpdesk at +1-555-0191 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+602,Add neha.chopra936@northwind-test.com to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+1160,I wrote the wifi password Dragon#28 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+1358,Here's my card for the reservation: 4111 7211 5585 1735,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+604,Add kabir.gupta145@example.org to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+608,Add rahul.agarwal391@brightpath-test.org to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+1164,I wrote the wifi password Summer@54 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+836,Message me at +1-555-0119 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+926,Set the environment variable API_KEY=AKIATUAffneKGBavh1RDofXgwsxY before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+1156,I wrote the wifi password Purple&148 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+1165,I wrote the wifi password Winter&771 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+1441,The client paid with card 4242 3652 8666 7289 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+1353,Here's my card for the reservation: 4111 0296 7027 3595,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+90,What are common misconceptions about photosynthesis?,SAFE,SAFE,SAFE_08
+97,Suggest three resources to learn more about urbanization.,SAFE,SAFE,SAFE_09
+843,Message me at +91-938799154 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+1703,"The candidate's full name is Divya Reddy, born 20-09-1982.",PII,CONFIDENTIAL,PII_14
+1197,"Our shared drive password is Shadow!689, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+1445,The client paid with card 5555 9220 7421 1205 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+1715,"The candidate's full name is Kabir Verma, born 11-02-2004.",PII,CONFIDENTIAL,PII_14
+697,Please call the helpdesk at +91-792963368 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+842,Message me at +91-645135070 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+708,Please call the helpdesk at +91-723798190 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1848,Do not distribute — Harborline Shipping's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+1193,"Our shared drive password is Tr0ub4dor@924, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+928,Set the environment variable API_KEY=api_key_WQ0OsGFUsd37EgEKG895i1Jw before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+89,What are common misconceptions about fermentation?,SAFE,SAFE,SAFE_08
+1587,"HR record: Divya Dutta, DOB 06-08-1970, employee ID 3431 9096 4245.",PII,CONFIDENTIAL,PII_05
+612,Add rohan.rao932@brightpath-test.org to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+1444,The client paid with card 5555 1459 1259 7086 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+668,I'll share the document link with rahul.sharma185@example.net shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+1757,Do not forward — Brightpath Systems's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+51,What's a good analogy to understand inflation?,SAFE,SAFE,SAFE_05
+1704,"The candidate's full name is Arjun Joshi, born 06-12-1970.",PII,CONFIDENTIAL,PII_14
+837,Message me at +91-863423225 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+310,"def calculate_voucher_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+1359,Here's my card for the reservation: 5105 9489 4521 9619,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+973,Paste this into your .env file: SECRET_KEY=api_key_O6UjCufdXIJoqyNAbPHNMUKRe5,API_KEY,CONFIDENTIAL,API_KEY_06
+710,Please call the helpdesk at +1-555-0129 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1702,"The candidate's full name is Aarav Joshi, born 28-08-1992.",PII,CONFIDENTIAL,PII_14
+966,Paste this into your .env file: SECRET_KEY=api_key_VBO7iEGd50DF5kJThyL2F,API_KEY,CONFIDENTIAL,API_KEY_06
+1705,"The candidate's full name is Vikram Rao, born 12-09-1982.",PII,CONFIDENTIAL,PII_14
+1584,"HR record: Rohan Joshi, DOB 21-08-1984, employee ID 9284 2252 6935.",PII,CONFIDENTIAL,PII_05
+1756,Do not forward — Silverline Media's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+969,Paste this into your .env file: SECRET_KEY=ghp_g1T1UIoWXrP5y78tIapMW1Z4ROU,API_KEY,CONFIDENTIAL,API_KEY_06
+607,Add priya.rao378@brightpath-test.org to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+92,What are common misconceptions about climate change?,SAFE,SAFE,SAFE_08
+1168,I wrote the wifi password Rocket!476 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+87,What are common misconceptions about urbanization?,SAFE,SAFE,SAFE_08
+707,Please call the helpdesk at +1-555-0192 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1166,I wrote the wifi password Shadow&521 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+311,"def calculate_customer_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+1436,The client paid with card 4111 9226 1795 9658 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+47,What's a good analogy to understand natural selection?,SAFE,SAFE,SAFE_05
+1758,Do not forward — Ironclad Security's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+1362,Here's my card for the reservation: 5105 9422 2135 1956,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+1437,The client paid with card 4242 4126 9076 2965 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+1576,"HR record: Riya Joshi, DOB 16-05-1971, employee ID 6488 7686 7139.",PII,CONFIDENTIAL,PII_05
+841,Message me at +1-555-0159 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+847,Message me at +91-921783073 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+667,I'll share the document link with pooja.sharma624@brightpath-test.org shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+84,What are common misconceptions about thermodynamics?,SAFE,SAFE,SAFE_08
+925,Set the environment variable API_KEY=sk-live-gWCh1Ba7mQiOj5qOpx4k before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+298,Let's grab coffee and catch up sometime this Monday.,SAFE,SAFE,SAFE_29
+919,Set the environment variable API_KEY=api_key_mUYdg2luCq1GNLLKv0MYRsM before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+52,What's a good analogy to understand machine learning basics?,SAFE,SAFE,SAFE_05
+1446,The client paid with card 5555 8562 8093 7130 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+83,What are common misconceptions about machine learning basics?,SAFE,SAFE,SAFE_08
+705,Please call the helpdesk at +1-555-0175 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1161,I wrote the wifi password Purple!400 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+964,Paste this into your .env file: SECRET_KEY=AKIAYeBJfEt8UbzcIZX7N3IOCvZY0u,API_KEY,CONFIDENTIAL,API_KEY_06
+603,Add simran.kapoor824@example.com to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+972,Paste this into your .env file: SECRET_KEY=ghp_46xHr4YxXBc3lF6k7HaePV1AgH,API_KEY,CONFIDENTIAL,API_KEY_06
+835,Message me at +91-859930790 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+98,Suggest three resources to learn more about photosynthesis.,SAFE,SAFE,SAFE_09
+312,"def calculate_appointment_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+1360,Here's my card for the reservation: 4111 1997 2248 1155,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+963,Paste this into your .env file: SECRET_KEY=xoxb-ATDPNjZ3Ma5FDEkUturFI,API_KEY,CONFIDENTIAL,API_KEY_06
+1709,"The candidate's full name is Isha Chopra, born 09-11-1973.",PII,CONFIDENTIAL,PII_14
+95,Suggest three resources to learn more about thermodynamics.,SAFE,SAFE,SAFE_09
+1708,"The candidate's full name is Isha Chopra, born 21-08-1995.",PII,CONFIDENTIAL,PII_14
+661,I'll share the document link with riya.malhotra361@example.com shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+610,Add tanya.sharma635@acmecorp-test.io to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+100,Suggest three resources to learn more about deforestation.,SAFE,SAFE,SAFE_09
+599,Add aditya.singh180@example.org to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+664,I'll share the document link with meera.pillai377@example.com shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+320,"def calculate_vendor_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+1762,Do not forward — Harborline Shipping's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+56,What's a good analogy to understand the immune system?,SAFE,SAFE,SAFE_05
+1185,"Our shared drive password is Dragon!743, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+839,Message me at +1-555-0124 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+601,Add sameer.dutta936@example.net to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+53,What's a good analogy to understand black holes?,SAFE,SAFE,SAFE_05
+665,I'll share the document link with rahul.agarwal232@northwind-test.com shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+1440,The client paid with card 4012 9943 2466 4566 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+970,Paste this into your .env file: SECRET_KEY=xoxb-W7slQlkFxAIiKpuSjjud5MP,API_KEY,CONFIDENTIAL,API_KEY_06
+1579,"HR record: Vikram Mehta, DOB 25-11-1975, employee ID 1534 3458 7243.",PII,CONFIDENTIAL,PII_05
+1169,I wrote the wifi password Summer@496 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+1357,Here's my card for the reservation: 4111 9762 4773 9948,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+1443,The client paid with card 5555 1119 3440 3620 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+659,I'll share the document link with priya.singh363@brightpath-test.org shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+93,What are common misconceptions about artificial intelligence?,SAFE,SAFE,SAFE_08
+918,Set the environment variable API_KEY=sk-live-0OPk9pkjI7ozlNAbMmKy before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+703,Please call the helpdesk at +1-555-0131 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+94,What are common misconceptions about the nervous system?,SAFE,SAFE,SAFE_08
+967,Paste this into your .env file: SECRET_KEY=AKIA84Vq78CizRUsR1S6NmMsvP8O7F,API_KEY,CONFIDENTIAL,API_KEY_06
+1843,Do not distribute — Lumen Financial's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+1583,"HR record: Kabir Kapoor, DOB 24-07-1993, employee ID 2890 4949 8291.",PII,CONFIDENTIAL,PII_05
+844,Message me at +91-875927774 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+1582,"HR record: Vikram Agarwal, DOB 08-06-1984, employee ID 5801 4998 6385.",PII,CONFIDENTIAL,PII_05
+1187,"Our shared drive password is Rocket#651, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+960,Paste this into your .env file: SECRET_KEY=sk-live-4NC8qdY20wPAh03aiOu37,API_KEY,CONFIDENTIAL,API_KEY_06
+846,Message me at +91-933173544 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+1439,The client paid with card 4012 9123 0172 4286 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+921,Set the environment variable API_KEY=sk-test-7FEQz0EfbVsrHkCUVIhhWZwZcS before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+656,I'll share the document link with rohan.singh99@brightpath-test.org shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+85,What are common misconceptions about inflation?,SAFE,SAFE,SAFE_08
+1442,The client paid with card 4111 1135 8286 3451 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+54,What's a good analogy to understand urbanization?,SAFE,SAFE,SAFE_05
+1190,"Our shared drive password is Shadow&983, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+1365,Here's my card for the reservation: 5105 2788 0356 2854,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+1712,"The candidate's full name is Pooja Patel, born 02-06-1971.",PII,CONFIDENTIAL,PII_14
+104,Suggest three resources to learn more about renewable energy.,SAFE,SAFE,SAFE_09
+55,What's a good analogy to understand supply chains?,SAFE,SAFE,SAFE_05
+86,What are common misconceptions about supply chains?,SAFE,SAFE,SAFE_08
+1184,"Our shared drive password is Falcon!716, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+1163,I wrote the wifi password Rocket@265 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+1580,"HR record: Rohan Khan, DOB 18-12-1977, employee ID 9249 9982 7849.",PII,CONFIDENTIAL,PII_05
+698,Please call the helpdesk at +1-555-0198 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+1356,Here's my card for the reservation: 4012 3664 4199 8039,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+666,I'll share the document link with pooja.shah629@brightpath-test.org shortly.,EMAIL,CONFIDENTIAL,EMAIL_14
+709,Please call the helpdesk at +1-555-0135 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+105,Suggest three resources to learn more about monsoon formation.,SAFE,SAFE,SAFE_09
+702,Please call the helpdesk at +91-839738898 for urgent issues.,PHONE,CONFIDENTIAL,PHONE_02
+924,Set the environment variable API_KEY=sk-live-Fr6w6uaVTTCPwdHnAnqZuJJEvQ before running the script.,API_KEY,CONFIDENTIAL,API_KEY_03
+845,Message me at +1-555-0127 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+834,Message me at +1-555-0129 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+600,Add karan.pillai898@example.net to the mailing list for updates.,EMAIL,CONFIDENTIAL,EMAIL_10
+971,Paste this into your .env file: SECRET_KEY=AKIAwWtnleFzHfnnuwnUG9Z8aPB4MM7Q,API_KEY,CONFIDENTIAL,API_KEY_06
+1363,Here's my card for the reservation: 4012 8950 0589 3368,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+88,What are common misconceptions about the Krebs cycle?,SAFE,SAFE,SAFE_08
+49,What's a good analogy to understand evolution?,SAFE,SAFE,SAFE_05
+1194,"Our shared drive password is Dragon!424, don't post it publicly.",PASSWORD,CONFIDENTIAL,PASSWORD_07
+1361,Here's my card for the reservation: 5555 0689 7663 7731,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_04
+1759,Do not forward — Northwind Analytics's acquisition talks are still under NDA.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_03
+270,"My friend's birthday is next week, should I get him a gift card?",SAFE,SAFE,SAFE_25
+840,Message me at +1-555-0133 once you land.,PHONE,CONFIDENTIAL,PHONE_12
+1438,The client paid with card 4012 5900 7387 8447 over the phone.,PAYMENT_CARD,CONFIDENTIAL,PAYMENT_CARD_10
+1162,I wrote the wifi password Rocket!146 on the whiteboard by mistake.,PASSWORD,CONFIDENTIAL,PASSWORD_05
+101,Suggest three resources to learn more about blockchain.,SAFE,SAFE,SAFE_09
+1842,Do not distribute — Cobalt Logistics's unreleased financial results for this quarter.,CONFIDENTIAL,CONFIDENTIAL,CONFIDENTIAL_11
+314,"def calculate_account_total(items):
+    return sum(i.price * i.qty for i in items)",SOURCE_CODE,SOURCE_CODE,SOURCE_CODE_01
+295,Let's grab coffee and catch up sometime this Tuesday.,SAFE,SAFE,SAFE_29

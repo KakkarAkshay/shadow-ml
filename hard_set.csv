@@ -1,0 +1,44 @@
+text,label
+What's the time complexity of binary search?,SAFE
+How do I fix a bug where my loop never terminates?,SAFE
+Our team retro is scheduled for next Tuesday afternoon.,SAFE
+I think the migration script has an off-by-one error somewhere.,SAFE
+Can you recommend a good book on system design interviews?,SAFE
+What does 'confidential' mean in a legal contract?,SAFE
+I'm nervous about presenting our project roadmap tomorrow.,SAFE
+Could you help me understand REST vs GraphQL?,SAFE
+Why does Python's garbage collector sometimes not free memory immediately?,SAFE
+Explain what a race condition is in multithreaded programming.,SAFE
+"We had a great turnout at the product demo yesterday, thanks everyone.",SAFE
+Quarterly all-hands is moved to 3 PM this Friday.,SAFE
+Can you review the pull request before the demo?,SAFE
+The order number for my package is 48213.,SAFE
+Flight AI-202 departs from gate 14B at 6:45.,SAFE
+"The invoice total came to 4,111 rupees after tax.",SAFE
+"Reference ticket number is TCK-88291, raised yesterday.",SAFE
+"My friend's birthday is next week, should I get him a gift card?",SAFE
+Here's the secret.,SAFE
+while (!done) { process(queue.pop()); },SOURCE_CODE
+SELECT * FROM users WHERE last_login IS NULL;,SOURCE_CODE
+def reverse_string(s): return s[::-1],SOURCE_CODE
+<button onClick={() => setOpen(!open)}>Toggle</button>,SOURCE_CODE
+"import numpy as np
+arr = np.array([1, 2, 3])",SOURCE_CODE
+"Don't mention this outside the team, but we're cutting the marketing budget 40% next quarter.",CONFIDENTIAL
+Leadership decided this morning to delay the layoffs announcement until after the board meeting.,CONFIDENTIAL
+"The acquisition offer came in at 2.3x revenue, keep that between us for now.",CONFIDENTIAL
+We're planning to undercut their pricing by 15% before the public announcement next month.,CONFIDENTIAL
+"The new product codename is Thunderbird, don't post that in the public Slack channel.",CONFIDENTIAL
+"The merger talks are off the record until Monday's press release, don't repeat this.",CONFIDENTIAL
+"Shoot me a note whenever, I'm at r.verma88@example.com",EMAIL
+Here's where to reach the ops lead: ops-lead@example.org,EMAIL
+"Ring me anytime, it's +91-9876543210.",PHONE
+Front desk number is 555-0147 if anyone asks.,PHONE
+export STRIPE_KEY=sk_live_51Hc9f2K8pQmZ9L2x,API_KEY
+swap in AKIA3F9QXZ7HLP2MK8R4 before you redeploy,API_KEY
+just use guestWifi2024! to get online,PASSWORD
+if it still doesn't let you in try Falcon&271 one more time,PASSWORD
+charge it to 4012 9308 0592 0424 please,PAYMENT_CARD
+card on file is 5555 4812 6953 9086,PAYMENT_CARD
+"Please pull up the file for S. Kapoor, record number 7731 4420 9981.",PII
+"Candidate Rohan Mehta, born 14-03-1998, passport W2290134.",PII
