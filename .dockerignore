@@ -1,0 +1,11 @@
+.git
+.gitignore
+.venv
+__pycache__
+**/__pycache__
+.pytest_cache
+.env
+*.csv
+reports
+model_*.joblib
+*.md
