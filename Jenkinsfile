@@ -7,9 +7,10 @@ pipeline {
     }
 
     environment {
-        AWS_REGION = 'ap-southeast-2'
-        ECR_REPO   = 'shadow-ml'
-        IMAGE_TAG  = "${env.BUILD_NUMBER}"
+        AWS_REGION    = 'ap-southeast-2'
+        ECR_REPO      = 'shadow-ml'
+        IMAGE_TAG     = "${env.BUILD_NUMBER}"
+        APP_SERVER_IP = '172.31.3.160'
     }
 
     stages {
@@ -64,6 +65,21 @@ pipeline {
                     docker push ${REGISTRY}/${ECR_REPO}:${IMAGE_TAG}
                     docker push ${REGISTRY}/${ECR_REPO}:latest
                 '''
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                sshagent(credentials: ['app-server-ssh']) {
+                    sh '''
+                        ACCOUNT_ID=$(aws sts get-caller-identity --query Account --output text)
+                        REGISTRY="${ACCOUNT_ID}.dkr.ecr.${AWS_REGION}.amazonaws.com"
+                        REMOTE="ssh -o StrictHostKeyChecking=accept-new ubuntu@${APP_SERVER_IP}"
+                        aws ecr get-login-password --region ${AWS_REGION} | $REMOTE "docker login --username AWS --password-stdin ${REGISTRY}"
+                        scp -o StrictHostKeyChecking=accept-new deploy/deploy.sh ubuntu@${APP_SERVER_IP}:/tmp/deploy.sh
+                        $REMOTE "bash /tmp/deploy.sh ${REGISTRY}/${ECR_REPO}:${IMAGE_TAG} ${IMAGE_TAG}"
+                    '''
+                }
             }
         }
     }
